@@ -1,20 +1,21 @@
 # 05 — Feed Store — Images
 
-Store section-specific visual references and generated views here.
+Read ../IMAGE.md before generation.
 
-Suggested names:
-- `00-overview.png`
-- `01-top-view.png`
-- `02-front-view.png`
-- `03-rear-view.png`
-- `04-left-view.png`
-- `05-right-view.png`
-- `06-aerial-45deg.png`
-- `07-interior-01.png`
-- `08-detail-01.png`
-
-Rules:
-- Images must follow the current master-plant dimensions.
-- Use the visualization-image skill before generating engineering images.
-- An image does not change the approved engineering baseline.
-- If an image shows a new design, mark it as a concept until the math and review skills approve it.
+Suggested files:
+- 00-master-overview.png
+- 01-top-orthographic.png
+- 02-south-receiving.png
+- 03-north-dispatch.png
+- 04-west-roughage.png
+- 05-east-concentrate-racks.png
+- 06-central-aisle.png
+- 07-weigh-mix.png
+- 08-mineral-zone.png
+- 09-rack-detail.png
+- 10-pallet-roughage.png
+- 11-humidity-control.png
+- 12-utility-overlay.png
+- 13-pest-fire-overlay.png
+- 14-sw-cutaway.png
+- 15-ne-cutaway.png

@@ -1,20 +1,20 @@
 # 04 — Office + Vet + Biosecurity — Images
 
-Store section-specific visual references and generated views here.
+Read ../IMAGE.md before generating.
 
 Suggested names:
-- `00-overview.png`
-- `01-top-view.png`
-- `02-front-view.png`
-- `03-rear-view.png`
-- `04-left-view.png`
-- `05-right-view.png`
-- `06-aerial-45deg.png`
-- `07-interior-01.png`
-- `08-detail-01.png`
-
-Rules:
-- Images must follow the current master-plant dimensions.
-- Use the visualization-image skill before generating engineering images.
-- An image does not change the approved engineering baseline.
-- If an image shows a new design, mark it as a concept until the math and review skills approve it.
+- 00-master-overview.png
+- 01-top-orthographic.png
+- 02-west-public-entry.png
+- 03-east-farm-entry.png
+- 04-biosecurity-zone.png
+- 05-office-monitoring.png
+- 06-vet-ai-workspace.png
+- 07-medicine-vaccine-store.png
+- 08-vaccine-fridge-detail.png
+- 09-cctv-dashboard.png
+- 10-ln2-ai-detail.png
+- 11-utility-overlay.png
+- 12-critical-power.png
+- 13-sw-cutaway.png
+- 14-ne-cutaway.png

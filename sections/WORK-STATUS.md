@@ -7,7 +7,7 @@
 | 01 | Cow shed | ✅ Detailed package complete incl. IMAGE.md |
 | 02 | Cow yard | ✅ Detailed package complete incl. IMAGE.md |
 | 03 | Milk room + chiller | ✅ Detailed package complete incl. IMAGE.md |
-| 04 | Office + vet + biosecurity | ⏳ Basic README only |
+| 04 | Office + vet + biosecurity | ✅ Detailed package complete incl. IMAGE.md |
 | 05 | Feed store | ⏳ Basic README only |
 | 06 | Feed unloading canopy | ⏳ Basic README only |
 | 07 | Waste receiving + mixing | ⏳ Basic README only |

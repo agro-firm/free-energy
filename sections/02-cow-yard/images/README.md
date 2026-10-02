@@ -1,20 +1,31 @@
 # 02 — Cow Yard — Images
 
-Store section-specific visual references and generated views here.
+Mandatory references:
+- ../IMAGE.md
+- ../ARCHITECTURE.md
+- ../BLUEPRINT.md
+- ../UTILITIES.md
+- agent/skill/00-master-plant/SKILL.md
+- agent/skill/01-engineering-math/SKILL.md
+- agent/skill/02-site-layout/SKILL.md
+- agent/skill/15-visualization-images/SKILL.md
 
-Suggested names:
-- `00-overview.png`
-- `01-top-view.png`
-- `02-front-view.png`
-- `03-rear-view.png`
-- `04-left-view.png`
-- `05-right-view.png`
-- `06-aerial-45deg.png`
-- `07-interior-01.png`
-- `08-detail-01.png`
+Suggested files:
+- 00-master-overview.png
+- 01-top-orthographic.png
+- 02-west-shed-gate.png
+- 03-east-service-drain.png
+- 04-south-elevation.png
+- 05-north-elevation.png
+- 06-sw-aerial.png
+- 07-se-aerial.png
+- 08-nw-aerial.png
+- 09-ne-aerial.png
+- 10-shaded-zone.png
+- 11-open-zone.png
+- 12-trough-detail.png
+- 13-dirty-drain-detail.png
+- 14-utility-overlay.png
+- 15-rainfall-drainage.png
 
-Rules:
-- Images must follow the current master-plant dimensions.
-- Use the visualization-image skill before generating engineering images.
-- An image does not change the approved engineering baseline.
-- If an image shows a new design, mark it as a concept until the math and review skills approve it.
+Image rule: normal operational images show **10 cows max**.

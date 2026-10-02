@@ -9,7 +9,7 @@
 | 03 | Milk room + chiller | ✅ Detailed package complete incl. IMAGE.md |
 | 04 | Office + vet + biosecurity | ✅ Detailed package complete incl. IMAGE.md |
 | 05 | Feed store | ✅ Detailed package complete incl. IMAGE.md |
-| 06 | Feed unloading canopy | ⏳ Basic README only |
+| 06 | Feed unloading canopy | ✅ Detailed package complete incl. IMAGE.md |
 | 07 | Waste receiving + mixing | ⏳ Basic README only |
 | 08 | Biogas digester | ⏳ Basic README only |
 | 09 | Gas storage | ⏳ Basic README only |

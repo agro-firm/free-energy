@@ -1,43 +1,52 @@
 # 06 — Feed Unloading Canopy
 
-## Status
-Planning baseline. Detailed construction design will be added later.
+## Documentation status
+**Detailed engineering concept package — Section 06 complete for planning.**
 
-## Baseline
-10 × 18 ft
+## Canonical baseline
+- **Plant version:** PLANT-V1.0
+- **Footprint:** 10 ft × 18 ft
+- **Area:** 180 ft² ≈ 16.72 m²
+- **Function:** covered side-unloading/transfer apron between Section 14 service lane and Section 05 feed store
+- **Truck location:** truck remains in the 14-ft service lane; the canopy covers the transfer apron, not the whole vehicle
+- **Roof form:** single-slope lean-to canopy
+- **Concept high side:** ~14 ft at feed-store side
+- **Concept low side:** ~12 ft at lane side
+- **Fresh forage staging:** up to ~300 kg/day normal; max ~600 kg / 2 days temporary staging
+- **Dry-feed flow:** truck → canopy → Section 05 receiving/quarantine
+- **Green-forage flow:** truck → canopy short-stage → same-day/next-day feed preparation → cows
 
-## Purpose
-Covered transfer point where feed is unloaded from a truck without blocking the service lane.
+## Space program
+| Zone | Size | Area |
+|---|---:|---:|
+| Fresh-forage short staging | 4 × 10 ft | 40 ft² |
+| Main bag/pallet unloading | 10 × 10 ft | 100 ft² |
+| Inspection/trolley/safety zone | 4 × 10 ft | 40 ft² |
+| **Total** | | **180 ft²** |
 
-## Inputs
-Feed truck and delivered feed.
+## Document map
+| File | Purpose |
+|---|---|
+| [ARCHITECTURE.md](ARCHITECTURE.md) | canopy form, truck relationship, roof, structure and weather protection |
+| [BLUEPRINT.md](BLUEPRINT.md) | exact XYZ coordinates, truck envelope, zones, columns and drainage |
+| [DESIGN.md](DESIGN.md) | loading workflow, fresh-forage staging, worker safety and ergonomics |
+| [CALCULATIONS.md](CALCULATIONS.md) | area, roof slope, truck clearance, loads, drainage and cost math |
+| [UTILITIES.md](UTILITIES.md) | lighting, CCTV, roof stormwater, apron drainage and gas exclusion |
+| [PROCESS.md](PROCESS.md) | truck arrival, securing, unloading, inspection, staging and dispatch |
+| [EQUIPMENT.md](EQUIPMENT.md) | pallet truck, platform trolley, chocks, barriers, lights and safety |
+| [DIAGRAMS.md](DIAGRAMS.md) | plan, truck/canopy relation, flow and drainage diagrams |
+| [CONSTRUCTION.md](CONSTRUCTION.md) | canopy/apron build sequence, hold points and commissioning |
+| [OPERATIONS-MAINTENANCE.md](OPERATIONS-MAINTENANCE.md) | daily loading, drainage, roof, trolley and safety checks |
+| [BENEFITS.md](BENEFITS.md) | rain protection, labor, logistics, feed-quality and land-use benefits |
+| [COST.md](COST.md) | 2026 Bangladesh low/base/high cost model |
+| [IMAGE.md](IMAGE.md) | canonical image geometry, prompts and QA |
+| [images/README.md](images/README.md) | image naming/governance |
+| [images/IMAGE-GUIDE.md](images/IMAGE-GUIDE.md) | detailed rendering prompts and camera coordinates |
+| [images/VIEW-MATRIX.md](images/VIEW-MATRIX.md) | all required unloading/loading views |
 
-## Outputs
-Feed moved directly into the feed store.
-
-## Interfaces
-Service lane and feed store.
-
-## Current design notes
-Final canopy height, truck clearance and pavement loading must be checked against the actual delivery vehicle.
-
-## Design rules
-- Read the matching skill before changing this section.
-- Use the engineering-math skill for all dimensions and capacities.
-- Keep maintenance, cleaning and safety clearances functional.
-- Do not change approved dimensions only to improve an image.
-- Any approved dimensional change must update the master plan.
-
-## Future work
-- Exact coordinates and surveyed levels
-- Detailed construction dimensions
-- Materials and finishes
-- Equipment list
-- MEP connections
-- Automation/sensors where applicable
-- Safety review
-- Cost estimate
-- Construction drawings
-
-## Images
-Store approved and proposed images under [images/](images/).
+## Mandatory interfaces
+- **South:** Section 14 service lane
+- **North:** Section 05 feed store receiving door
+- Section 06 must never block the service lane permanently
+- no feed is stored here long term
+- no manure, fertilizer, biogas or generator equipment belongs here

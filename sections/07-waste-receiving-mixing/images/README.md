@@ -1,20 +1,21 @@
 # 07 — Waste Receiving + Mixing — Images
 
-Store section-specific visual references and generated views here.
+Read ../IMAGE.md, ../P&ID.md and ../AUTOMATION.md before generating.
 
-Suggested names:
-- `00-overview.png`
-- `01-top-view.png`
-- `02-front-view.png`
-- `03-rear-view.png`
-- `04-left-view.png`
-- `05-right-view.png`
-- `06-aerial-45deg.png`
-- `07-interior-01.png`
-- `08-detail-01.png`
-
-Rules:
-- Images must follow the current master-plant dimensions.
-- Use the visualization-image skill before generating engineering images.
-- An image does not change the approved engineering baseline.
-- If an image shows a new design, mark it as a concept until the math and review skills approve it.
+Suggested:
+- 00-master-overview.png
+- 01-top-orthographic.png
+- 02-west-manure-inlet.png
+- 03-east-digester-feed.png
+- 04-screen-grit-detail.png
+- 05-receiving-sump-cutaway.png
+- 06-mixing-tank-load-cells.png
+- 07-water-dosing.png
+- 08-feed-pump-flow-meter.png
+- 09-emergency-sump.png
+- 10-plc-control-panel.png
+- 11-pid-overlay.png
+- 12-automation-sequence.png
+- 13-drainage-containment.png
+- 14-sw-aerial.png
+- 15-ne-aerial.png

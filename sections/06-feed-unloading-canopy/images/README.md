@@ -1,20 +1,21 @@
 # 06 — Feed Unloading Canopy — Images
 
-Store section-specific visual references and generated views here.
+Read ../IMAGE.md first.
 
-Suggested names:
-- `00-overview.png`
-- `01-top-view.png`
-- `02-front-view.png`
-- `03-rear-view.png`
-- `04-left-view.png`
-- `05-right-view.png`
-- `06-aerial-45deg.png`
-- `07-interior-01.png`
-- `08-detail-01.png`
-
-Rules:
-- Images must follow the current master-plant dimensions.
-- Use the visualization-image skill before generating engineering images.
-- An image does not change the approved engineering baseline.
-- If an image shows a new design, mark it as a concept until the math and review skills approve it.
+Suggested files:
+- 00-master-overview.png
+- 01-top-orthographic.png
+- 02-truck-side-unloading.png
+- 03-south-service-lane.png
+- 04-north-feed-store-door.png
+- 05-west-fresh-forage.png
+- 06-east-inspection-zone.png
+- 07-bag-unloading.png
+- 08-tail-lift-pallet.png
+- 09-pallet-truck-level-ground.png
+- 10-wheel-chocks-safety.png
+- 11-rain-operation.png
+- 12-night-lighting.png
+- 13-drainage-overlay.png
+- 14-sw-aerial.png
+- 15-ne-aerial.png

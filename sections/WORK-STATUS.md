@@ -6,7 +6,7 @@
 |---:|---|---|
 | 01 | Cow shed | ✅ Detailed package complete incl. IMAGE.md |
 | 02 | Cow yard | ✅ Detailed package complete incl. IMAGE.md |
-| 03 | Milk room + chiller | ⏳ Basic README only |
+| 03 | Milk room + chiller | ✅ Detailed package complete incl. IMAGE.md |
 | 04 | Office + vet + biosecurity | ⏳ Basic README only |
 | 05 | Feed store | ⏳ Basic README only |
 | 06 | Feed unloading canopy | ⏳ Basic README only |
@@ -21,6 +21,6 @@
 | 15 | Rooftop solar | ⏳ Basic README only |
 
 ## Definition of detailed complete
-A section is complete only when it has architecture, blueprint, design, calculations, utilities, process, equipment, diagrams, construction, operations/maintenance, benefits, cost, **IMAGE.md**, AI image guide, view matrix and updated README.
+A section is complete only when it has architecture, blueprint, design, calculations, utilities, process, equipment, diagrams, construction, operations/maintenance, benefits, cost, IMAGE.md, AI image guide, view matrix and updated section README.
 
 See [DOCUMENTATION-STANDARD.md](DOCUMENTATION-STANDARD.md).

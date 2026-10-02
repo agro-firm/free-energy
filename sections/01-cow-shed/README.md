@@ -31,6 +31,7 @@ This folder is the section-level source for the 20-cow shed. It does not replace
 | [OPERATIONS-MAINTENANCE.md](OPERATIONS-MAINTENANCE.md) | Cleaning, inspection, maintenance and operating checks |
 | [BENEFITS.md](BENEFITS.md) | Functional, hygiene, labor, energy and integration benefits |
 | [COST.md](COST.md) | 2026 Bangladesh planning cost model with low/base/high ranges |
+| [IMAGE.md](IMAGE.md) | Canonical image-generation rules, geometry math, prompts and QA |
 | [images/README.md](images/README.md) | Image folder rules |
 | [images/IMAGE-GUIDE.md](images/IMAGE-GUIDE.md) | AI image-generation specification for every side, angle and interior view |
 | [images/VIEW-MATRIX.md](images/VIEW-MATRIX.md) | Camera coordinates and required view checklist |

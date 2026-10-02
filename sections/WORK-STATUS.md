@@ -10,7 +10,7 @@
 | 04 | Office + vet + biosecurity | ✅ Detailed package complete incl. IMAGE.md |
 | 05 | Feed store | ✅ Detailed package complete incl. IMAGE.md |
 | 06 | Feed unloading canopy | ✅ Detailed package complete incl. IMAGE.md |
-| 07 | Waste receiving + mixing | ⏳ Basic README only |
+| 07 | Waste receiving + mixing | ✅ Detailed package complete incl. IMAGE.md |
 | 08 | Biogas digester | ⏳ Basic README only |
 | 09 | Gas storage | ⏳ Basic README only |
 | 10 | Gas treatment | ⏳ Basic README only |
@@ -22,5 +22,7 @@
 
 ## Definition of detailed complete
 A section is complete only when it has architecture, blueprint, design, calculations, utilities, process, equipment, diagrams, construction, operations/maintenance, benefits, cost, IMAGE.md, AI image guide, view matrix and updated section README.
+
+Process-heavy sections may also include P&ID.md, AUTOMATION.md and SAFETY.md.
 
 See [DOCUMENTATION-STANDARD.md](DOCUMENTATION-STANDARD.md).

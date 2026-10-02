@@ -14,7 +14,7 @@ description: Canonical source of truth for the compact integrated dairy-energy p
 - Office + vet + biosecurity: 12 × 15 ft.
 - Feed store: 18 × 20 ft.
 - Feed unloading canopy: 10 × 18 ft.
-- Waste receiving/mixing: about 140 ft².
+- Waste receiving/mixing: **10 × 14 ft = 140 ft²**.
 - Digester compound: 16 × 20 ft; nominal digester 25 m³.
 - Raw gas holder: 8 m³ in a 10 × 12 ft zone.
 - Gas treatment: 8 × 10 ft.
@@ -39,6 +39,9 @@ Truck → unloading canopy → feed store → cow shed.
 ## Baseline calculations
 - Fresh dung: 20 × 15 = 300 kg/day.
 - Collection at 90%: 300 × 0.90 = 270 kg/day.
+- Dilution water planning: about 270 L/day at current 1:1 assumption.
+- Daily slurry planning flow: about 0.54 m³/day.
+- Four digester feeds/day: about 0.135 m³/feed.
 - Biogas planning range: 8.10–9.18 m³/day.
 - Generator: 5 kW rated; normal planning output about 4 kW.
 - Expected generator runtime at baseline gas: about 3.6–4.1 h/day.

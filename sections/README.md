@@ -22,15 +22,41 @@ This folder contains the physical and operational sections of the current compac
 | 14 | Truck/service lane | 14 ft wide |
 | 15 | Rooftop solar | 15 kWp on cow-shed roof |
 
+## Documentation standard
+
+All detailed section work follows:
+- [DOCUMENTATION-STANDARD.md](DOCUMENTATION-STANDARD.md)
+- [WORK-STATUS.md](WORK-STATUS.md)
+
+Each detailed section should contain:
+- architecture
+- blueprint
+- design
+- calculations
+- utilities
+- process
+- equipment
+- diagrams
+- construction
+- operations/maintenance
+- benefits
+- cost
+- AI image guide
+- image view matrix
+
 ## How to use this folder
 
-Each section contains:
-- `README.md` — purpose, process, interfaces, baseline and future work.
-- `images/README.md` — image organization and naming rules.
+Each section starts with:
+- `README.md` — section purpose, baseline, interfaces and file index.
+- `images/` — image instructions and generated visual library.
 
-The engineering source of truth remains `agent/skill/00-master-plant/SKILL.md` and `agent/skill/01-engineering-math/SKILL.md`.
+The engineering source of truth remains:
+- `agent/skill/00-master-plant/SKILL.md`
+- `agent/skill/01-engineering-math/SKILL.md`
 
 If a section changes permanently, update:
-1. that section README,
+1. that section's calculation/blueprint files,
 2. its relevant skill,
-3. the master plant if a canonical baseline value changed.
+3. the section README,
+4. the master plant if a canonical baseline value changed,
+5. affected image instructions.

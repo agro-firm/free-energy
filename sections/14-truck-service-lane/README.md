@@ -1,43 +1,54 @@
 # 14 — Truck / Service Lane
 
-## Status
-Planning baseline. Detailed construction design will be added later.
+## Documentation status
+**Detailed logistics / pavement / traffic-safety concept package — Section 14 complete for planning.**
 
-## Baseline
-14 ft wide
+## Canonical baseline
+- **Plant version:** PLANT-V1.0
+- **Width:** 14 ft = 4.267 m
+- **Length:** 95 ft = 28.956 m
+- **Area:** 1,330 ft² = 123.56 m²
+- **Use:** single-lane shared logistics corridor
+- **Design vehicle:** Tata LPT 709-class 7.5-t rigid truck
+- **Traffic rule:** one service truck at a time
+- **Turning:** no U-turn inside lane
+- **Preferred movement:** reverse-in / forward-out if entrance geometry permits
+- **Pavement concept:** 150 mm RCC over engineered sub-base
+- **Crossfall:** 1.5% toward outer-edge drain
+- **Gate:** 14 ft minimum clear; 16 ft preferred at boundary flare if site allows
+- **Overhead:** no fixed obstruction across lane; target ≥4.2 m planning clear where relevant
 
-## Purpose
-Shared logistics route for milk pickup, feed delivery, fertilizer loading, maintenance, veterinary and emergency access.
+## Planning longitudinal stations
+| Station | Length | Main use |
+|---|---:|---|
+| 0–10 ft | 10 ft | entry/gate/clear zone |
+| 10–35 ft | 25 ft | milk pickup |
+| 35–60 ft | 25 ft | feed unloading / Section 06 |
+| 60–70 ft | 10 ft | clear transition / vet / maintenance |
+| 70–95 ft | 25 ft | fertilizer + rear utility/generator service |
 
-## Inputs
-Service vehicles and loads entering the site.
+These station limits are planning assignments; final global site coordinates control actual door/node locations.
 
-## Outputs
-Efficient loading/unloading and equipment-service access.
-
-## Interfaces
-Milk room, feed canopy, fertilizer processing, generator/digester service points and main road.
-
-## Current design notes
-The lane is productive logistics space, not unused land. Final gate width, turning path, pavement loading and clearances must be checked with the actual vehicle.
-
-## Design rules
-- Read the matching skill before changing this section.
-- Use the engineering-math skill for all dimensions and capacities.
-- Keep maintenance, cleaning and safety clearances functional.
-- Do not change approved dimensions only to improve an image.
-- Any approved dimensional change must update the master plan.
-
-## Future work
-- Exact coordinates and surveyed levels
-- Detailed construction dimensions
-- Materials and equipment selections
-- MEP/interface connections
-- Automation/sensors where applicable
-- Safety review
-- Cost estimate
-- Construction drawings
-- Commissioning checks
-
-## Images
-Store approved and proposed images under [images/](images/).
+## Document map
+- ARCHITECTURE.md
+- BLUEPRINT.md
+- DESIGN.md
+- CALCULATIONS.md
+- VEHICLE-SWEPT-PATH.md
+- LOADING-NODES.md
+- PAVEMENT.md
+- DRAINAGE.md
+- TRAFFIC-SAFETY.md
+- EMERGENCY-ACCESS.md
+- UTILITIES.md
+- PROCESS.md
+- EQUIPMENT.md
+- DIAGRAMS.md
+- CONSTRUCTION.md
+- OPERATIONS-MAINTENANCE.md
+- BENEFITS.md
+- COST.md
+- IMAGE.md
+- images/README.md
+- images/IMAGE-GUIDE.md
+- images/VIEW-MATRIX.md

@@ -20,26 +20,35 @@ description: Canonical source of truth for the compact integrated dairy-energy p
 - Gas treatment: 8 × 10 ft.
 - Generator/electrical: 12 × 14 ft; 5 kW.
 - Fertilizer processing: 16 × 22 ft.
-- Water utility: **8 × 12 ft; 8 m³ ground tank + 2 m³ overhead tank; 10 m³ total storage**.
-- Service lane: 14 ft wide.
+- Water utility: 8 × 12 ft; 10 m³ total storage.
+- Truck/service lane: **14 ft × 95 ft = 1,330 ft² / 123.56 m²**, single-lane shared logistics corridor.
 - Solar: 15 kWp on cow-shed roof.
 
-## Current water design
-- Normal section-by-section demand: **~3.30 m³/day**.
-- Design demand with 15% margin: **~3.79 m³/day**.
-- Hot-weather design case: **~4.25 m³/day**.
-- 10 m³ storage autonomy:
-  - ~3.0 days normal
-  - ~2.6 days design
-  - ~2.35 days hot-weather design
-- Distribution concept: 32 mm main, 25 mm process branches, 20 mm local branches.
-- Pump concept: two 1 HP duty/standby pressure-transfer pumps at roughly 40–50 L/min and 20–25 m TDH.
-- Drinking/cleaning water source must be tested and treated as required.
+## Service-lane design vehicle
+Planning design vehicle:
+- Tata LPT 709-class rigid truck
+- width ≈2.155 m / 7.07 ft
+- length up to ≈6.875 m / 22.56 ft
+- height ≈2.341 m / 7.68 ft chassis/cab reference
+- GVW ≈7,500 kg
+- minimum turning-circle diameter ≈12.3–13.5 m / 40–44 ft
 
-## Non-negotiable water rules
-1. Milk-room cleaning water must be potable-quality.
-2. Cow drinking supply has priority over washdown.
-3. Clean stormwater is not routed into manure/digestate systems.
-4. Dirty/process drainage is not routed into clean water tanks.
-5. Ground tank and overhead tank require accessible cleaning.
-6. Final pump/pipe sizing uses surveyed levels, actual pipe lengths and real pump curves.
+Actual supplier vehicle must be checked before construction.
+
+## Service-lane operating rules
+- One truck at a time.
+- No internal passing.
+- No permanent parking/storage.
+- No U-turn within the 14-ft lane.
+- Preferred reverse-in / forward-out operation when public-road geometry permits.
+- Loading nodes: milk, feed, rear fertilizer/maintenance.
+- Full 14-ft surface remains flush/unobstructed for service/emergency use.
+- A painted loading/pedestrian strip may be used but must not reduce physical clear width.
+- Final fire/emergency access compliance must be verified locally.
+
+## Pavement concept
+- 150 mm RCC rigid pavement concept.
+- Engineered compacted sub-base.
+- 1.5% crossfall away from building/loading edge.
+- Outer-edge covered surface drain.
+- Final pavement thickness/reinforcement based on subgrade/CBR and actual axle loads.

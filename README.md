@@ -1,48 +1,23 @@
 # Free Energy — Compact Dairy + Biogas + Solar Farm
 
-Integrated 20-cow dairy-energy plant on a 65×95 ft site.
+PLANT-V1.0 is a fully documented 20-cow integrated dairy-energy concept on a 65×95 ft plot.
 
-## Documentation status
-- 15/15 physical sections: complete.
-- Master Integration Review: complete.
-- Current plan version: PLANT-V1.0.
-- Construction release: not yet approved.
+## Documentation stage
+- Sections 01–15 physical designs: complete.
+- Section 16 master integration: complete.
+- Section 17 DCF-1 global X/Y coordinate freeze: complete.
+- IFC release: pending survey/safety/geotechnical/vendor hold points.
 
-## Core flows
-Milk:
-Cow → Section 03 → chiller → service lane.
+## DCF-1 site
+- East service lane: X51–65, Y0–95.
+- All ground sections fit with zero geometric overlap.
+- Occupied incl. lane: 5,330 ft².
+- Functional residual: 845 ft².
 
-Manure:
-Section 01 → 07 → 08.
+## Critical next step
+Validate DCF-1 with a licensed boundary/topographic survey and close the Section 17 IFC hold points.
 
-Gas:
-08 → 09 → 10 → 11.
-
-Digestate:
-08 → 12.
-
-Water:
-13 → farm users.
-
-Energy:
-15 solar → main MDB/grid.
-11 biogas generator → Essential Load Board.
-
-## Integrated planning totals
-- Water design demand: ~3.79 m³/day.
-- Water storage: 10 m³.
-- Biogas: ~8.10–9.18 m³/day.
-- Solar: ~58.35 kWh/day planning.
-- Gross combined renewable generation: ~72.9–74.8 kWh/day.
-- Raw summed base CAPEX: ~Tk252.54 lakh before BOQ deduplication.
-
-## Critical next engineering step
-Freeze the **surveyed global site coordinates/elevations and drainage layout**. Local section drawings are detailed, but final construction drawings require one coordinated site plan.
-
-## Documentation
-- [Agent](agent/README.md)
-- [Skills](agent/skill/README.md)
+Documentation:
 - [Sections](sections/README.md)
-- [Master integration](sections/16-master-integration-review/README.md)
-
-All construction, structural, gas, electrical, fire, drainage and regulatory items require qualified local professional verification.
+- [DCF-1](sections/17-master-site-coordinate-freeze/README.md)
+- [Coordinate register](sections/17-master-site-coordinate-freeze/COORDINATE-REGISTER.md)

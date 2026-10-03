@@ -1,20 +1,23 @@
 # 08 — Biogas Digester — Images
 
-Store section-specific visual references and generated views here.
+Read ../IMAGE.md, ../BLUEPRINT.md, ../P&ID.md, ../SAFETY.md and ../BIOLOGY-STARTUP.md first.
 
-Suggested names:
-- `00-overview.png`
-- `01-top-view.png`
-- `02-front-view.png`
-- `03-rear-view.png`
-- `04-left-view.png`
-- `05-right-view.png`
-- `06-aerial-45deg.png`
-- `07-interior-01.png`
-- `08-detail-01.png`
-
-Rules:
-- Images must follow the current master-plant dimensions.
-- Use the visualization-image skill before generating engineering images.
-- An image does not change the approved engineering baseline.
-- If an image shows a new design, mark it as a concept until the math and review skills approve it.
+Suggested files:
+- 00-master-overview.png
+- 01-top-compound.png
+- 02-south-exterior.png
+- 03-north-gas-side.png
+- 04-west-feed-side.png
+- 05-east-digestate-side.png
+- 06-sw-aerial.png
+- 07-ne-aerial.png
+- 08-vertical-cutaway.png
+- 09-volume-infographic.png
+- 10-feed-inlet-detail.png
+- 11-digestate-outlet.png
+- 12-gas-pv-condensate.png
+- 13-recirculation-loop.png
+- 14-manway-detail.png
+- 15-pid-overlay.png
+- 16-startup-biology.png
+- 17-groundwater-uplift.png

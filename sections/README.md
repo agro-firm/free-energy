@@ -1,15 +1,20 @@
 # Plant Sections
 
 ## Physical
-Sections 01–15 complete.
+01–15 complete.
 
-## Coordination/IFC validation
-- 16 Master Integration — complete.
-- 17 DCF-1 X/Y — complete.
-- 18 Survey/Z/Drainage/IFC framework — complete; field data pending.
-- 19 Fire/Hazardous/Emergency/Regulatory framework — complete; authority/professional approvals pending.
+## Integration / IFC / commercial control
+- 16 Master Integration.
+- 17 DCF-1 Coordinates.
+- 18 Survey/Z/Drainage/IFC.
+- 19 Fire/Hazardous/Emergency.
+- 20 Master BOQ/Procurement/Cost Control.
 
-## Authority
-- geometry: 17.
-- levels/drainage: 18.
-- safety/fire/hazardous: 19.
+## Commercial authority
+Use Section 20 for:
+- gross budget.
+- package ownership.
+- dedup.
+- RFQ/evaluation.
+- vendor submittals.
+- cost forecast.

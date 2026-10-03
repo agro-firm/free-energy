@@ -1,0 +1,25 @@
+boq_code,cost_section,description,control_budget_bdt,procurement_package,scope_status,quote_status,award_status
+B-01,01,Cow shed complete section budget,3711840,PPK-02,MAPPED,OPEN,OPEN
+B-02,02,Cow yard complete section budget,523600,PPK-01,MAPPED,OPEN,OPEN
+B-03,03,Milk room and cold chain,2228800,PPK-03,MAPPED,OPEN,OPEN
+B-04,04,Office vet biosecurity,1964480,PPK-03,MAPPED,OPEN,OPEN
+B-05,05,Feed store,1218448,PPK-04,MAPPED,OPEN,OPEN
+B-06,06,Feed unloading canopy,398720,PPK-04,MAPPED,OPEN,OPEN
+B-07,07,Waste receiving mixing,1405300,PPK-05,MAPPED,OPEN,OPEN
+B-08,08,Biogas digester,2574000,PPK-06,MAPPED,OPEN,OPEN
+B-09,09,Gas storage,978000,PPK-07,MAPPED,OPEN,OPEN
+B-10,10,Gas treatment,1536000,PPK-07,MAPPED,OPEN,OPEN
+B-11,11,Generator electrical,2144290,PPK-08,MAPPED,OPEN,OPEN
+B-12,12,Fertilizer processing,2113010,PPK-09,MAPPED,OPEN,OPEN
+B-13,13,Water utility,1423700,PPK-10,MAPPED,OPEN,OPEN
+B-14,14,Service lane/site civil,1610000,PPK-01,MAPPED,OPEN,OPEN
+B-15,15,Rooftop solar,1423520,PPK-11,MAPPED,OPEN,OPEN
+B-18,18,Survey IFC validation,741750,PPK-00,MAPPED,OPEN,OPEN
+B-19,19,Fire safety regulatory,977500,PPK-12,MAPPED,OPEN,OPEN
+D-01,SHARED,Fire alarm/extinguishers/general safety,TBD,PPK-12,DEDUP_REVIEW,OPEN,OPEN
+D-02,SHARED,CCTV NVR network,TBD,PPK-13,DEDUP_REVIEW,OPEN,OPEN
+D-03,SHARED,Common earth grid/lightning coordination,TBD,PPK-08,DEDUP_REVIEW,OPEN,OPEN
+D-04,SHARED,Survey setting-out as-built,TBD,PPK-00,DEDUP_REVIEW,OPEN,OPEN
+D-05,SHARED,Main stormwater outfall/trunk,TBD,PPK-01,DEDUP_REVIEW,OPEN,OPEN
+D-06,SHARED,Plant SCADA network dashboard,TBD,PPK-13,DEDUP_REVIEW,OPEN,OPEN
+D-07,SHARED,Integrated commissioning/training,TBD,PPK-14,DEDUP_REVIEW,OPEN,OPEN

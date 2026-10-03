@@ -1,43 +1,57 @@
 # 15 — Rooftop Solar
 
-## Status
-Planning baseline. Detailed construction design will be added later.
+## Documentation status
+**Detailed rooftop-PV / electrical / structural / net-metering package — Section 15 complete for planning.**
 
-## Baseline
-15 kWp target on cow-shed roof
+## Canonical baseline
+- **Target:** 15.0 kWp
+- **Roof:** Section 01 cow-shed gable, 26 ×48 ft
+- **Roof slope:** ~21.04° concept
+- **Modules:** 24 ×625 W SREDA-approved class
+- **Module dimensions:** 2382 ×1134 mm
+- **Array:** 12 modules per roof plane
+- **Strings:** 2 ×12
+- **Inverter:** 15 kW three-phase, 2-MPPT, SREDA-approved class
+- **Planning yield:** 58.35 kWh/day
+- **Planning annual yield:** ~21.30 MWh/year
+- **Ground footprint:** zero
+- **Battery:** not included in baseline
+- **Net-metering:** ready for current Bangladesh Net Metering Guideline 2025 process, subject to utility/service approval
 
-## Purpose
-Produces daytime renewable electricity without consuming additional ground area.
+## Hardware reference
+SREDA approved module example:
+- Canadian Solar CS6.2-66TB-625, 625 W
 
-## Inputs
-Solar radiation and roof structural capacity.
+SREDA approved inverter examples:
+- Sungrow SG15RT-P2, 15 kW
+- Solis S5-GR3P15K, 15 kW
 
-## Outputs
-Electrical energy to the farm electrical system.
+Final purchase must verify the model is still on the current approved list.
 
-## Interfaces
-Cow-shed roof, inverter/electrical system and farm loads.
-
-## Current design notes
-Final panel count depends on actual module wattage/dimensions. Structural loading, maintenance paths, vents, strings, inverter, earthing and lightning protection must be engineered.
-
-## Design rules
-- Read the matching skill before changing this section.
-- Use the engineering-math skill for all dimensions and capacities.
-- Keep maintenance, cleaning and safety clearances functional.
-- Do not change approved dimensions only to improve an image.
-- Any approved dimensional change must update the master plan.
-
-## Future work
-- Exact coordinates and surveyed levels
-- Detailed construction dimensions
-- Materials and equipment selections
-- MEP/interface connections
-- Automation/sensors where applicable
-- Safety review
-- Cost estimate
-- Construction drawings
-- Commissioning checks
-
-## Images
-Store approved and proposed images under [images/](images/).
+## Document map
+- ARCHITECTURE.md
+- BLUEPRINT.md
+- DESIGN.md
+- CALCULATIONS.md
+- MODULE-LAYOUT.md
+- STRING-SIZING.md
+- ENERGY-YIELD.md
+- STRUCTURAL-ROOF.md
+- POWER-INTEGRATION.md
+- NET-METERING.md
+- PROTECTION-EARTHING.md
+- UTILITIES.md
+- PROCESS.md
+- EQUIPMENT.md
+- SINGLE-LINE.md
+- AUTOMATION-MONITORING.md
+- SAFETY.md
+- DIAGRAMS.md
+- CONSTRUCTION.md
+- OPERATIONS-MAINTENANCE.md
+- BENEFITS.md
+- COST.md
+- IMAGE.md
+- images/README.md
+- images/IMAGE-GUIDE.md
+- images/VIEW-MATRIX.md

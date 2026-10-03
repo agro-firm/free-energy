@@ -1,43 +1,50 @@
 # 13 — Water Utility
 
-## Status
-Planning baseline. Detailed construction design will be added later.
+## Documentation status
+**Detailed water-storage / distribution / quality-control package — Section 13 complete for planning.**
 
-## Baseline
-8 × 12 ft; 8 m³ ground tank + 2 m³ overhead tank concept
+## Canonical baseline
+- **Footprint:** 8 × 12 ft = 96 ft² ≈ 8.92 m²
+- **Ground tank:** 8 m³ RCC, below-grade
+- **Overhead tank:** 2 m³ food-grade tank
+- **Total storage:** 10 m³
+- **Normal water demand:** ~3.30 m³/day
+- **Design demand:** ~3.79 m³/day
+- **Hot-weather design:** ~4.25 m³/day
+- **Pump philosophy:** twin 1 HP duty/standby pressure-transfer pumps
+- **Main distribution:** 32 mm concept
+- **Process branches:** 25 mm concept
+- **Local branches:** 20 mm concept
 
-## Purpose
-Stores and distributes drinking, wash, digester dilution and process water.
+## Water priorities
+1. cow drinking
+2. milk-room hygiene
+3. office/vet handwashing
+4. digester dilution
+5. essential process use
+6. washdown/noncritical uses
 
-## Inputs
-Approved farm water source and electrical power for pumps.
-
-## Outputs
-Water to cow shed, milk room, manure mixing and other farm uses.
-
-## Interfaces
-Cow shed, milk room, waste mixing, drainage and electrical controls.
-
-## Current design notes
-Clean stormwater and dirty/process drainage remain separate. Final pump sizes and pipe diameters require peak-demand and surveyed-level calculations.
-
-## Design rules
-- Read the matching skill before changing this section.
-- Use the engineering-math skill for all dimensions and capacities.
-- Keep maintenance, cleaning and safety clearances functional.
-- Do not change approved dimensions only to improve an image.
-- Any approved dimensional change must update the master plan.
-
-## Future work
-- Exact coordinates and surveyed levels
-- Detailed construction dimensions
-- Materials and equipment selections
-- MEP/interface connections
-- Automation/sensors where applicable
-- Safety review
-- Cost estimate
-- Construction drawings
-- Commissioning checks
-
-## Images
-Store approved and proposed images under [images/](images/).
+## Document map
+- ARCHITECTURE.md
+- BLUEPRINT.md
+- DESIGN.md
+- CALCULATIONS.md
+- WATER-BALANCE.md
+- HYDRAULICS.md
+- WATER-QUALITY.md
+- DRAINAGE-NETWORK.md
+- UTILITIES.md
+- PROCESS.md
+- EQUIPMENT.md
+- P&ID.md
+- AUTOMATION.md
+- SAFETY.md
+- DIAGRAMS.md
+- CONSTRUCTION.md
+- OPERATIONS-MAINTENANCE.md
+- BENEFITS.md
+- COST.md
+- IMAGE.md
+- images/README.md
+- images/IMAGE-GUIDE.md
+- images/VIEW-MATRIX.md

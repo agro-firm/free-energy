@@ -1,0 +1,4 @@
+scenario,milk_l_day,saleable_pct,milk_price_bdt_l,concentrate_kg_day,concentrate_bdt_kg,roughage_kg_day,roughage_bdt_kg,fresh_kg_day,fresh_bdt_kg,labor_bdt_y,vet_bdt_y,maintenance_bdt_y,other_opex_bdt_y,energy_kwh_y,energy_value_bdt_kwh,energy_realization_pct,fertilizer_t_y,fertilizer_bdt_kg
+Conservative,100,95,50,60,75,80,20,300,10,1500000,250000,450000,500000,26603.75,6.04,70,0,0
+Base,140,97,53,60,72.5,80,20,300,8.5,1500000,200000,350000,400000,26956.25,12.73,85,14.1146,12
+Upside_Target,280,98,70,90,68,80,15,400,4,1800000,300000,450000,500000,27308.75,15.36,90,18.15,15

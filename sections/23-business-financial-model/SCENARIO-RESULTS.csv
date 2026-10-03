@@ -1,0 +1,4 @@
+scenario,saleable_milk_l_y,milk_revenue_bdt,energy_value_bdt,fertilizer_value_bdt,total_revenue_value_bdt,feed_cost_bdt,total_opex_bdt,ebitda_bdt,break_even_milk_price_bdt_l,simple_plant_payback_years
+Conservative,34675,1733750,112481,0,1846231,3321500,6021500,-4175269,170.41,NA
+Base,49567,2627051,291680,169375,3088106,3102500,5552500,-2464394,102.72,NA
+Upside_Target,100156,7010920,377516,272250,7660686,3255800,6305800,1354886,56.47,19.91

@@ -1,17 +1,18 @@
 # Free Energy — Compact Dairy + Biogas + Solar Farm
 
-PLANT-V1.0 now covers the full project lifecycle from design through procurement, construction and operations.
+PLANT-V1.0 now covers engineering, procurement, construction, operations and business economics.
 
-## Current documentation
-- physical plant 01–15.
-- master integration 16.
-- coordinates/IFC/safety 17–19.
-- procurement 20.
-- construction execution 21.
-- operations/maintenance/staffing 22.
+## Financial control
+Gross project control budget:
+```
+Tk26,972,958 ≈ Tk269.73 lakh
+```
+before livestock, working capital and unresolved commercial items.
 
-## Operating baseline
-Planning values are documented, but the first 90 days of actual operation must replace assumptions with measured KPI/OPEX baselines.
+## Current business-model conclusion
+At the 140 L/day engineering baseline with current farmgate milk and purchased-feed reference prices, the illustrative base case is negative.
+
+Section 23 defines the productivity, price, feed-cost and phasing thresholds needed for break-even and a positive investment case.
 
 ## Rule
-Animal treatment/vaccination and equipment service intervals follow current DLS/veterinarian and vendor requirements, not generic calendar guesses.
+Do not approve full-project investment from technical completion alone. Use the Section 23 Investment Decision Gate with real buyer, herd, feed, CAPEX, OPEX and financing inputs.

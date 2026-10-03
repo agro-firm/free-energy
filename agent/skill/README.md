@@ -30,4 +30,5 @@
 - 22-fire-hazardous-emergency-validation
 - 23-procurement-boq-cost-control
 - 24-construction-execution-qa
-- **25-operations-maintenance-management**
+- 25-operations-maintenance-management
+- **26-business-financial-model**

@@ -28,4 +28,5 @@
 - 20-site-coordinate-freeze
 - 21-survey-ifc-validation
 - 22-fire-hazardous-emergency-validation
-- **23-procurement-boq-cost-control**
+- 23-procurement-boq-cost-control
+- **24-construction-execution-qa**

@@ -16,8 +16,8 @@ description: Canonical source of truth for the compact integrated dairy-energy p
 - Feed unloading canopy: 10 × 18 ft.
 - Waste receiving/mixing: 10 × 14 ft = 140 ft².
 - Digester compound: 16 × 20 ft; 25 m³ total digester; 20 m³ target working liquid volume.
-- Raw gas storage: **8 m³ nominal low-pressure H₂S-compatible flexible membrane holder in a 10 × 12 ft zone**.
-- Gas treatment: 8 × 10 ft.
+- Raw gas storage: 8 m³ nominal low-pressure flexible membrane holder in a 10 × 12 ft zone.
+- Gas treatment: **8 × 10 ft treatment skid zone; bulk condensate knockout → twin 25 kg lead/lag H₂S media vessels → fine moisture separator → particulate polish → gas meter → gas-compatible booster/regulator → generator**.
 - Generator + electrical: 12 × 14 ft; generator 5 kW rated.
 - Fertilizer processing: 16 × 22 ft.
 - Water utility: 8 × 12 ft.
@@ -50,6 +50,9 @@ Truck → unloading canopy → feed store → cow shed.
 - Gas-holder downstream demand enable concept: ~75% = 6.0 m³.
 - Gas-holder low cutout concept: ~20% = 1.6 m³.
 - Usable control swing: ~4.4 m³.
+- Gas-treatment design flow: 3 m³/h peak concept.
+- H₂S design inlet for sizing: 2,000 ppm ASSUMPTION; sensitivity 1,000–3,000 ppm.
+- Treated-gas planning target: ≤100 ppm H₂S maximum; preferred ≤50 ppm if generator vendor requires.
 - Generator: 5 kW rated; normal planning output about 4 kW.
 - Expected generator runtime at baseline gas: about 3.6–4.1 h/day.
 
@@ -57,6 +60,7 @@ Truck → unloading canopy → feed store → cow shed.
 1. Clean milk traffic does not cross the manure route.
 2. Feed delivery does not enter the waste zone.
 3. Gas process order stays digester → storage → treatment → generator.
-4. Truck/service access remains usable.
-5. No image may change dimensions for appearance.
-6. Any dimension or capacity change must be recalculated before approval.
+4. Untreated raw biogas never bypasses Section 10 to the generator.
+5. Truck/service access remains usable.
+6. No image may change dimensions for appearance.
+7. Any dimension or capacity change must be recalculated before approval.

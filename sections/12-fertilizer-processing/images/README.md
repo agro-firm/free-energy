@@ -1,20 +1,23 @@
 # 12 — Fertilizer Processing — Images
 
-Store section-specific visual references and generated views here.
+Read ../IMAGE.md, ../SOLIDS-BALANCE.md, ../LIQUID-DIGESTATE.md and ../QUALITY-REGULATORY.md first.
 
-Suggested names:
-- `00-overview.png`
-- `01-top-view.png`
-- `02-front-view.png`
-- `03-rear-view.png`
-- `04-left-view.png`
-- `05-right-view.png`
-- `06-aerial-45deg.png`
-- `07-interior-01.png`
-- `08-detail-01.png`
-
-Rules:
-- Images must follow the current master-plant dimensions.
-- Use the visualization-image skill before generating engineering images.
-- An image does not change the approved engineering baseline.
-- If an image shows a new design, mark it as a concept until the math and review skills approve it.
+Suggested:
+- 00-master-overview.png
+- 01-top-orthographic.png
+- 02-west-digestate-inlet.png
+- 03-east-liquid-service.png
+- 04-south-service-lane.png
+- 05-north-process.png
+- 06-sw-aerial.png
+- 07-ne-aerial.png
+- 08-screw-press-detail.png
+- 09-cake-output.png
+- 10-curing-bays.png
+- 11-drying-turning.png
+- 12-bagging.png
+- 13-finished-pallet.png
+- 14-liquid-tank.png
+- 15-drainage-overlay.png
+- 16-mass-balance.png
+- 17-quality-regulatory.png

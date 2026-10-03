@@ -3,15 +3,17 @@
 ## Physical
 01–15 complete.
 
-## Lifecycle control
-16 Integration  
+## Lifecycle
+16 Master Integration  
 17 DCF-1 Coordinates  
 18 Survey/IFC  
 19 Fire/Hazardous/Emergency  
 20 Procurement/BOQ  
-21 Construction Execution/QA  
-22 Operations/PM/Staffing/Farm Management
+21 Construction Execution  
+22 Operations Management  
+23 Business/Financial Model
 
-## Operations authority
-Section 22 integrates daily operations.
-Equipment-specific O&M remains in Sections 01–15 and vendor manuals.
+## Authority
+- Section 20: CAPEX / procurement.
+- Section 22: actual operating data.
+- Section 23: business scenarios, break-even, funding and FID.

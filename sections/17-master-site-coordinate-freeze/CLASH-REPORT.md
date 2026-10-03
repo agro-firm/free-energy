@@ -1,57 +1,33 @@
 # DCF-1 Clash Report
 
 ## Geometry
-**PASS**
-- all physical rectangles inside plot.
-- zero area overlaps.
-- service lane continuous.
+PASS:
+- all rectangles inside plot.
+- zero geometric overlaps.
+- continuous service lane.
 
-## Clean logistics
-**PASS**
-- feed canopy touches lane.
-- milk room touches lane.
-- fertilizer touches rear lane.
-- generator touches lane.
-
-## Process
-**PASS**
-- cow/waste direct interface.
-- waste/digester direct interface.
-- gas/treatment adjacent.
-- gas/treatment/generator cluster compact.
-
-## HOLD C-01 — surveyed Z
-Severity HIGH.
-No final drainage/foundation elevations yet.
-
-## HOLD C-02 — digester/generator safety separation
-Minimum plan gap:
+## Safety-related holds
+### C02 — digester/generator proximity
+Closest plan gap:
 ```
-generator south Y65
-digester north Y63
-=2 ft
+Y65 - Y63 = 2 ft
 ```
-where X projections overlap.
+Status: **HIGH — Section 19 professional fire/hazardous-area disposition required.**
 
-Fire/gas/hazardous-area engineer must accept or require relocation/barrier.
+### C03 — milk/waste hygiene
+Milk north edge Y36; waste south edge Y37.
+Status: **MED-HIGH — hygienic enclosure/no shared drain-air path required.**
 
-## HOLD C-03 — milk/waste hygiene separation
-Milk north edge Y36.
-Waste south edge Y37.
-Only 1-ft geometric strip in the nearest projection.
+### C04 — treatment/generator service gap
+X38–39 is ~1 ft in overlap range.
+Status: human maintenance must use other faces; gas/electrical classification review required.
 
-Require sealed boundaries, no shared drain/air path and hygiene review.
+### C05 — public-road swept path
+Status: Section 18 survey/Section 19 emergency-access review pending.
 
-## HOLD C-04 — treatment/generator service gap
-Only 1 ft between X38 and X39 in the overlapping Y range.
-Process pipe can pass, but human maintenance access must be from other faces.
-
-## HOLD C-05 — public-road swept path
-Gate/lane is fixed, external road width/angle is not surveyed.
-
-## HOLD C-06 — vendor footprints
-Exact vendor packages must fit section rectangles including service clearances.
+### C06 — vendor footprints
+Status: pending final submittals.
 
 ## Result
-DCF-1 is approved for design coordination and visualization.
-It is **not IFC** until high holds are closed.
+DCF-1 remains design-coordinate authority.
+IFC waits on Sections 18/19 and other high hold closures.

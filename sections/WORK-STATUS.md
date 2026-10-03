@@ -3,15 +3,21 @@
 | No. | Section | Status |
 |---:|---|---|
 | 01–15 | Physical plant sections | ✅ complete |
-| 16 | Master integration review | ✅ complete |
-| 17 | Master site coordinate freeze DCF-1 | ✅ X/Y complete |
-| 18 | Survey/Z/drainage/IFC validation | ✅ framework complete; field data pending |
-| 19 | Fire/hazardous/emergency/regulatory validation | ✅ framework complete; authority/signed safety studies pending |
+| 16 | Master integration | ✅ |
+| 17 | DCF-1 X/Y | ✅ |
+| 18 | Survey/Z/drainage/IFC | ✅ framework; field data pending |
+| 19 | Fire/hazardous/emergency | ✅ framework; approvals pending |
+| 20 | Master BOQ/procurement/cost dedup | ✅ framework complete; quotes pending |
 
-## IFC safety status
-Gate 8 remains OPEN until:
-- hazardous-area study.
-- fire plan/e-NOC/fire-license as applicable.
-- emergency access review.
-- fire-water decision.
-- C02 digester-generator disposition.
+## Current commercial stage
+Gross control budget:
+```
+Tk26,972,958 ≈ Tk269.73 lakh
+```
+
+Final contract value remains pending:
+- BOQ quantity verification.
+- vendor quotes.
+- approved dedup credits.
+- tax/duty/transport.
+- remaining engineering/authority changes.

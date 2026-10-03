@@ -1,20 +1,17 @@
 # 14 — Truck / Service Lane — Images
 
-Store section-specific visual references and generated views here.
-
-Suggested names:
-- `00-overview.png`
-- `01-top-view.png`
-- `02-front-view.png`
-- `03-rear-view.png`
-- `04-left-view.png`
-- `05-right-view.png`
-- `06-aerial-45deg.png`
-- `07-interior-01.png`
-- `08-detail-01.png`
-
-Rules:
-- Images must follow the current master-plant dimensions.
-- Use the visualization-image skill before generating engineering images.
-- An image does not change the approved engineering baseline.
-- If an image shows a new design, mark it as a concept until the math and review skills approve it.
+Suggested:
+- 00-full-top.png
+- 01-main-gate.png
+- 02-reverse-in.png
+- 03-centered-clearance.png
+- 04-milk-pickup.png
+- 05-feed-unloading.png
+- 06-fertilizer-loading.png
+- 07-rear-maintenance.png
+- 08-cross-section.png
+- 09-rcc-pavement-cutaway.png
+- 10-edge-drain.png
+- 11-night-lighting.png
+- 12-emergency-clear.png
+- 13-full-site-route.png

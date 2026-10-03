@@ -14,6 +14,6 @@
 | 10 | Gas treatment | ✅ |
 | 11 | Generator + electrical | ✅ |
 | 12 | Fertilizer processing | ✅ |
-| 13 | Water utility | ✅ Detailed package complete incl. IMAGE.md |
-| 14 | Truck/service lane | ⏳ Basic README only |
+| 13 | Water utility | ✅ |
+| 14 | Truck/service lane | ✅ Detailed package complete incl. IMAGE.md |
 | 15 | Rooftop solar | ⏳ Basic README only |

@@ -1,9 +1,9 @@
 # Skill Index
 
 ## Core
-- 00-master-plant: canonical plant baseline and process flow.
-- 01-engineering-math: mandatory formulas, units, measurement and sizing rules.
-- 02-site-layout: zoning, coordinates, adjacency and land-use checks.
+- 00-master-plant
+- 01-engineering-math
+- 02-site-layout
 
 ## Plant systems
 - 03-cow-shed
@@ -24,5 +24,6 @@
 - 16-safety-regulatory
 - 17-cost-profit
 - 18-construction-review
+- **19-master-integration**
 
-Rule: every subsystem skill must remain consistent with the master plant and engineering-math skill.
+Rule: every subsystem remains consistent with master plant, engineering math and master integration.

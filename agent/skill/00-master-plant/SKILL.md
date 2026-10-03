@@ -18,37 +18,30 @@ description: Canonical source of truth for the compact integrated dairy-energy p
 - Digester compound: 16 × 20 ft.
 - Raw gas storage: 8 m³ in 10 × 12 ft zone.
 - Gas treatment: 8 × 10 ft.
-- Generator/electrical: 12 × 14 ft; 5 kW.
+- Generator/electrical: 12 × 14 ft; 5 kW biogas generator.
 - Fertilizer processing: 16 × 22 ft.
 - Water utility: 8 × 12 ft; 10 m³ total storage.
-- Truck/service lane: **14 ft × 95 ft = 1,330 ft² / 123.56 m²**, single-lane shared logistics corridor.
-- Solar: 15 kWp on cow-shed roof.
+- Truck/service lane: 14 × 95 ft.
+- Rooftop solar: **15.0 kWp selected design on cow-shed roof using 24 × 625 W modules, 2 strings ×12 modules, 15 kW three-phase inverter concept**.
 
-## Service-lane design vehicle
-Planning design vehicle:
-- Tata LPT 709-class rigid truck
-- width ≈2.155 m / 7.07 ft
-- length up to ≈6.875 m / 22.56 ft
-- height ≈2.341 m / 7.68 ft chassis/cab reference
-- GVW ≈7,500 kg
-- minimum turning-circle diameter ≈12.3–13.5 m / 40–44 ft
+## Solar baseline
+- Cow-shed roof: 26 ×48 ft gable.
+- Roof slope: ~21.04° concept.
+- Sloped roof area: ~1,337 ft² / 124.22 m².
+- Selected module: SREDA-approved 625 W class, 2382 ×1134 mm.
+- Quantity: 24 modules.
+- DC nameplate: 15.0 kWp exactly.
+- Array: 12 modules per roof plane.
+- Strings: 2×12; one roof plane per MPPT.
+- Inverter: SREDA-approved 15 kW three-phase class.
+- Planning specific yield: 3.89 kWh/kWp/day.
+- Planning energy: ~58.35 kWh/day; ~21.30 MWh/year.
+- Baseline solar/grid operation: no solar-generator paralleling unless inverter/genset vendors and electrical engineer explicitly approve it.
 
-Actual supplier vehicle must be checked before construction.
-
-## Service-lane operating rules
-- One truck at a time.
-- No internal passing.
-- No permanent parking/storage.
-- No U-turn within the 14-ft lane.
-- Preferred reverse-in / forward-out operation when public-road geometry permits.
-- Loading nodes: milk, feed, rear fertilizer/maintenance.
-- Full 14-ft surface remains flush/unobstructed for service/emergency use.
-- A painted loading/pedestrian strip may be used but must not reduce physical clear width.
-- Final fire/emergency access compliance must be verified locally.
-
-## Pavement concept
-- 150 mm RCC rigid pavement concept.
-- Engineered compacted sub-base.
-- 1.5% crossfall away from building/loading edge.
-- Outer-edge covered surface drain.
-- Final pavement thickness/reinforcement based on subgrade/CBR and actual axle loads.
+## Non-negotiable solar rules
+1. No module overhang beyond roof edges.
+2. Keep ridge/eave ventilation and maintenance access.
+3. Final roof structural/uplift design is engineer-approved before installation.
+4. Net-metering design uses currently approved SREDA module/inverter models.
+5. DC isolation, surge protection, earthing and lightning protection are mandatory.
+6. Solar cannot backfeed a live isolated generator island in the baseline topology.

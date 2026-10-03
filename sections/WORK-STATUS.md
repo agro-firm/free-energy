@@ -15,5 +15,8 @@
 | 11 | Generator + electrical | ✅ |
 | 12 | Fertilizer processing | ✅ |
 | 13 | Water utility | ✅ |
-| 14 | Truck/service lane | ✅ Detailed package complete incl. IMAGE.md |
-| 15 | Rooftop solar | ⏳ Basic README only |
+| 14 | Truck/service lane | ✅ |
+| 15 | Rooftop solar | ✅ Detailed package complete incl. IMAGE.md |
+
+## Plant section documentation
+**15 / 15 physical sections complete.**

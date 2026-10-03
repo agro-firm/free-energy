@@ -1,20 +1,18 @@
 # 15 — Rooftop Solar — Images
 
-Store section-specific visual references and generated views here.
-
-Suggested names:
-- `00-overview.png`
-- `01-top-view.png`
-- `02-front-view.png`
-- `03-rear-view.png`
-- `04-left-view.png`
-- `05-right-view.png`
-- `06-aerial-45deg.png`
-- `07-interior-01.png`
-- `08-detail-01.png`
-
-Rules:
-- Images must follow the current master-plant dimensions.
-- Use the visualization-image skill before generating engineering images.
-- An image does not change the approved engineering baseline.
-- If an image shows a new design, mark it as a concept until the math and review skills approve it.
+Suggested:
+- 00-master-roof.png
+- 01-top-orthographic.png
+- 02-plane-a.png
+- 03-plane-b.png
+- 04-ridge-clearance.png
+- 05-eave-clearance.png
+- 06-module-dimensions.png
+- 07-rail-purlin.png
+- 08-dc-routing.png
+- 09-inverter-acdb.png
+- 10-string-diagram.png
+- 11-single-line.png
+- 12-earthing-lightning.png
+- 13-net-metering.png
+- 14-full-farm-renewables.png

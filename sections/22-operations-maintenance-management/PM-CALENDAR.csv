@@ -1,0 +1,38 @@
+asset,section,task,interval,owner,trigger_or_note
+Cow shed,01,animal floor scraper trough visual,D,livestock,each morning/evening
+Scraper,01,wear guard E-stop check,W,utility/vendor,lockout
+Scraper,01,lubricate motor gearbox inspect,M,utility,vendor manual
+Fans,01,clean guard blades current,M,utility,hot-season pre-service
+Milk chiller,03,temp/log condenser visual,D,livestock,each milking/day
+Milk chiller,03,gaskets condenser drains inspect,W,livestock/utility,
+Milk chiller,03,refrigeration service,Q,HVAC vendor,vendor interval
+Milk sensors,03,temp calibration,A,QA/vendor,
+Vaccine fridge,04,temp/alarm,D,manager,2-8C
+Vaccine fridge,04,minmax gasket UPS,W,manager,
+Waste screen/sumps,07,inspect/clean,D,utility,
+Slurry pumps/mixer,07,impeller gearbox valves,M,utility,
+Slurry instruments,07,load/flow verification,Q,utility/vendor,
+Digester,08,temp pH gas pressure leak,D,utility,
+Digester,08,P/V external outlet recirculation,W,utility,
+Digester,08,instrument calibration gas inspection,A,specialist,
+Gas holder,09,level pressure leak condensate,D,utility,
+Gas holder,09,membrane frame connectors,W,utility,
+Gas treatment,10,H2S pressure flow condensate,D,utility,
+H2S media,10,replace,H,utility/vendor,breakthrough/vendor capacity
+Gas treatment,10,detector/meter/booster service,Q,gas vendor,
+Generator,11,pre-run oil battery alarms,EACH_RUN,utility,
+Generator,11,ATS exhaust mounts alarms,M,utility,
+Generator,11,engine service,H,generator vendor,runtime manual
+Water pumps,13,level pressure leak,D,utility,
+Water pumps,13,test standby,M,utility,
+Water quality,13,lab test,Q/A,manager/lab,risk/source dependent
+Fertilizer press,12,inspect clean,D,operator,
+Fertilizer press,12,grease screw screen,W,utility/vendor,
+Fertilizer scale,12,calibrate,M/Q,manager/vendor,
+Solar,15,remote monitoring,D,utility,
+Solar,15,visual MPPT comparison,M,utility,
+Solar,15,earthing SPD torque insulation,A,solar/electrician,
+Fire alarm,19,panel fault/exits,D,manager,
+Fire system,19,device/extinguisher inspection,M/A,HSE/vendor,current approved plan
+CCTV/data,04/22,uptime storage backup,W/M,manager,
+Service lane,14,drain/clearance,D/W,general,

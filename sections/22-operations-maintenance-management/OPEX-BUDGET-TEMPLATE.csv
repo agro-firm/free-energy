@@ -1,0 +1,21 @@
+category,quantity,unit,unit_rate_bdt,monthly_cost_bdt,source,status
+Concentrate,1800,kg,INPUT,FORMULA,supplier,UPDATE
+Dry roughage,2400,kg,INPUT,FORMULA,supplier,UPDATE
+Fresh forage,9000,kg,INPUT,FORMULA,supplier/own farm,UPDATE
+Labor,INPUT,FTE_or_month,INPUT,FORMULA,payroll,UPDATE
+Veterinary_AI,INPUT,month,INPUT,FORMULA,vendor,UPDATE
+Medicines_vaccines,INPUT,month,INPUT,FORMULA,records,UPDATE
+Milk_CIP_chemicals,INPUT,month,INPUT,FORMULA,supplier,UPDATE
+Grid_electricity,INPUT,kWh,INPUT,FORMULA,utility bill,UPDATE
+Water_source_treatment,INPUT,month,INPUT,FORMULA,utility/supplier,UPDATE
+Generator_service,INPUT,month,INPUT,FORMULA,vendor,UPDATE
+H2S_media_filters,CONDITION_BASED,month,INPUT,FORMULA,vendor,UPDATE
+Maintenance_spares,INPUT,month,INPUT,FORMULA,store,UPDATE
+Fertilizer_bags,~46,bags_base,INPUT,FORMULA,supplier,UPDATE
+Lab_testing,INPUT,month_or_quarter,INPUT,FORMULA,lab,UPDATE
+Pest_biosecurity,INPUT,month,INPUT,FORMULA,supplier,UPDATE
+Transport,INPUT,month,INPUT,FORMULA,records,UPDATE
+Security,INPUT,month,INPUT,FORMULA,contract,UPDATE
+Insurance_compliance,INPUT,month,INPUT,FORMULA,records,UPDATE
+Communications_software,INPUT,month,INPUT,FORMULA,records,UPDATE
+TOTAL,,,,SUM,

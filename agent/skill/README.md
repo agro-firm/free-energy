@@ -29,4 +29,5 @@
 - 21-survey-ifc-validation
 - 22-fire-hazardous-emergency-validation
 - 23-procurement-boq-cost-control
-- **24-construction-execution-qa**
+- 24-construction-execution-qa
+- **25-operations-maintenance-management**

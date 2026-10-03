@@ -1,20 +1,23 @@
 # 10 — Gas Treatment — Images
 
-Store section-specific visual references and generated views here.
+Read ../IMAGE.md, ../GAS-QUALITY.md, ../MEDIA-MANAGEMENT.md, ../P&ID.md and ../SAFETY.md first.
 
-Suggested names:
-- `00-overview.png`
-- `01-top-view.png`
-- `02-front-view.png`
-- `03-rear-view.png`
-- `04-left-view.png`
-- `05-right-view.png`
-- `06-aerial-45deg.png`
-- `07-interior-01.png`
-- `08-detail-01.png`
-
-Rules:
-- Images must follow the current master-plant dimensions.
-- Use the visualization-image skill before generating engineering images.
-- An image does not change the approved engineering baseline.
-- If an image shows a new design, mark it as a concept until the math and review skills approve it.
+Suggested:
+- 00-master-skid.png
+- 01-top-orthographic.png
+- 02-west-raw-inlet.png
+- 03-east-treated-outlet.png
+- 04-south-service.png
+- 05-north-process.png
+- 06-sw-aerial.png
+- 07-ne-aerial.png
+- 08-h2s-lead-lag.png
+- 09-media-bed-cutaway.png
+- 10-knockout-condensate.png
+- 11-moisture-filter.png
+- 12-gas-meter.png
+- 13-booster-regulator.png
+- 14-h2s-monitor.png
+- 15-pid-overlay.png
+- 16-media-change.png
+- 17-section09-10-11-context.png

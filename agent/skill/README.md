@@ -24,6 +24,7 @@
 - 16-safety-regulatory
 - 17-cost-profit
 - 18-construction-review
-- **19-master-integration**
+- 19-master-integration
+- **20-site-coordinate-freeze**
 
-Rule: every subsystem remains consistent with master plant, engineering math and master integration.
+Rule: global imagery and coordination drawings now follow Section 17 DCF-1.

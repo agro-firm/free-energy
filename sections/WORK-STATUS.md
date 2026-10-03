@@ -2,17 +2,17 @@
 
 | No. | Section | Status |
 |---:|---|---|
-| 01–15 | Physical plant sections | ✅ 15 / 15 complete |
-| 16 | Master integration review | ✅ Complete |
+| 01–15 | Physical plant sections | ✅ complete |
+| 16 | Master integration review | ✅ complete |
+| 17 | Master site coordinate freeze DCF-1 | ✅ X/Y complete; IFC holds remain |
 
-## Current project status
-**All physical section packages are complete and the first plant-wide integration review is complete.**
+## Current stage
+**Design coordination geometry is frozen in X/Y.**
 
-## Remaining pre-construction hold points
-- surveyed global X/Y/Z coordinate freeze.
-- geotechnical/groundwater verification.
-- drainage outfall design.
-- fire/hazardous-area review.
-- electrical utility/service confirmation.
-- vendor submittals.
-- master BOQ deduplication.
+Before IFC:
+- topographic Z survey.
+- road swept path.
+- drainage outfall.
+- fire/hazardous-area separation.
+- geotechnical.
+- vendor submittal fit.

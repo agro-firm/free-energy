@@ -1,15 +1,17 @@
 # Plant Sections
 
 ## Physical
-Sections 01–15: complete.
+Sections 01–15 complete.
 
-## Plant-wide engineering
-- 16 Master Integration Review: complete.
-- 17 Master Site Coordinate Freeze DCF-1: complete for X/Y design coordination.
+## Plant-wide coordination
+- 16 Master Integration Review — complete.
+- 17 DCF-1 X/Y Coordinate Freeze — complete.
+- 18 Survey/Z-Level/Drainage/IFC Validation — engineering package complete; field data pending.
 
-## Coordinate authority
-Use:
-[17-master-site-coordinate-freeze/COORDINATE-REGISTER.md](17-master-site-coordinate-freeze/COORDINATE-REGISTER.md)
+## Authority
+- X/Y: Section 17.
+- Z/drainage/IFC: Section 18.
+- Local section geometry: Sections 01–15.
 
-## IFC status
-Not yet IFC. Surveyed Z levels, road-entry swept path, drainage and high safety holds remain open.
+## Construction status
+Not IFC until field survey and remaining high hold points are closed.

@@ -4,15 +4,14 @@
 |---:|---|---|
 | 01–15 | Physical plant sections | ✅ complete |
 | 16 | Master integration review | ✅ complete |
-| 17 | Master site coordinate freeze DCF-1 | ✅ X/Y complete; IFC holds remain |
+| 17 | Master site coordinate freeze DCF-1 | ✅ X/Y complete |
+| 18 | Survey/Z/drainage/IFC validation | ✅ engineering package complete; FIELD SURVEY DATA pending |
 
 ## Current stage
-**Design coordination geometry is frozen in X/Y.**
+The design now has:
+- fixed X/Y.
+- full vertical/drainage methodology.
+- survey templates.
+- IFC gate criteria.
 
-Before IFC:
-- topographic Z survey.
-- road swept path.
-- drainage outfall.
-- fire/hazardous-area separation.
-- geotechnical.
-- vendor submittal fit.
+Construction IFC cannot be released until real RL/outfall/flood/geotechnical/safety/vendor data closes the Section 18 hold points.

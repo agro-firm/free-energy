@@ -25,6 +25,7 @@
 - 17-cost-profit
 - 18-construction-review
 - 19-master-integration
-- **20-site-coordinate-freeze**
+- 20-site-coordinate-freeze
+- **21-survey-ifc-validation**
 
-Rule: global imagery and coordination drawings now follow Section 17 DCF-1.
+Rule: X/Y follows Section 17 DCF-1; Z/drainage/IFC follows Section 18.

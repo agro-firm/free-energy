@@ -18,34 +18,38 @@ description: Canonical source of truth for the compact integrated dairy-energy p
 - Digester compound: 16 × 20 ft; 25 m³ total digester; 20 m³ target working liquid volume.
 - Raw gas storage: 8 m³ nominal low-pressure flexible membrane holder in a 10 × 12 ft zone.
 - Gas treatment: 8 × 10 ft treatment skid.
-- Generator + electrical: **12 × 14 ft room; 5 kW rated, 230 V, 50 Hz, single-phase biogas generator concept feeding a dedicated Essential Load Board through interlocked ATS/changeover**.
-- Fertilizer processing: 16 × 22 ft.
+- Generator + electrical: 12 × 14 ft room; 5 kW rated biogas generator.
+- Fertilizer processing: **16 × 22 ft covered process area; 0.75 m³ digestate buffer; ~500 kg/h screw press; 2.0 m³ liquid-digestate tank; curing/drying + 25 kg bagging**.
 - Water utility: 8 × 12 ft.
 - Service lane: 14 ft wide.
 - Rooftop solar: 15 kWp on cow-shed roof.
 
-## Canonical energy architecture
-Solar/grid normally serve the farm main bus. The 5 kW biogas generator serves an Essential Load Board through an interlocked transfer system. The generator does not backfeed or parallel the utility, and it does not parallel rooftop solar unless a future Section 15 inverter/genset design is explicitly approved by both vendors and the electrical engineer.
+## Canonical digestate flow
+Section 08 digestate → covered buffer → screw press → solid cake + liquid fraction.
 
-## Baseline calculations
-- Biogas: 8.10–9.18 m³/day.
-- Planning methane: ~60%.
-- Electrical yield: ~1.79 kWh/m³ at 30% engine-generator efficiency.
-- Gross generator energy: ~14.5–16.4 kWh/day.
-- Generator rated output: 5 kW.
-- Normal operating target: ~4 kW.
-- Gas at 4 kW: ~2.23 m³/h.
-- Runtime: ~3.6–4.1 h/day.
-- Rated current at 230 V: ~21.7 A.
-- Normal 4 kW current: ~17.4 A.
-- Concept generator breaker: 32 A 2-pole.
-- Concept generator feeder: 2C × 6 mm² copper + protective conductor, final sizing by engineer.
-- Room ventilation planning target: ~1,500–2,000 m³/h, final vendor airflow governs.
+Solid path:
+cake → covered curing/drying → optional screening → weighing/bagging → service-lane dispatch.
+
+Liquid path:
+separator liquid → covered 2.0 m³ tank → test → agronomic field use/sale/transport according to current rules.
+
+## Baseline digestate calculations
+- Hydraulic digestate flow: ~0.54 m³/day.
+- Planning wet mass: ~540 kg/day.
+- Initial dung TS: 51.3 kg/day.
+- Planning post-digestion dry solids retained: 70% of initial TS = ~35.91 kg/day ASSUMPTION.
+- Base separator dry-solids capture scenario: 70%.
+- Base captured dry solids: ~25.14 kg/day.
+- Base wet cake at 30% TS: ~83.8 kg/day.
+- Base separator liquid: ~0.456 m³/day.
+- 2.0 m³ liquid tank: ~4.4 days storage.
+- Base finished solid product at 65% TS: ~38.7 kg/day ≈14.1 t/year.
+- Yield sensitivity: ~10.1 t/year at 50% capture; ~18.1 t/year at 90% capture.
+- Product yield and N-P-K are NOT guaranteed until measured.
 
 ## Non-negotiable rules
-1. Untreated raw gas never bypasses Section 10 to the generator.
-2. Generator never backfeeds the grid.
-3. Generator/solar paralleling is prohibited unless explicitly engineered and vendor-approved.
-4. Noncritical loads are shed before generator overload.
-5. Exhaust gas is discharged outdoors, never into occupied/process spaces.
-6. No image may change canonical dimensions or topology.
+1. Never market digestate as a guaranteed fertilizer grade without laboratory analysis.
+2. Commercial fertilizer production/sale must follow current Bangladesh DAE/MoA registration/specification requirements.
+3. Liquid digestate is never discharged to stormwater.
+4. Dirty leachate/pressate stays within the fertilizer/process drainage system.
+5. No image may change dimensions or equipment capacities for appearance.

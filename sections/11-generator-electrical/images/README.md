@@ -1,20 +1,23 @@
 # 11 — Generator + Electrical — Images
 
-Store section-specific visual references and generated views here.
+Read ../IMAGE.md, ../SINGLE-LINE.md, ../LOAD-SCHEDULE.md, ../GAS-INTERFACE.md and ../VENTILATION-EXHAUST.md first.
 
-Suggested names:
-- `00-overview.png`
-- `01-top-view.png`
-- `02-front-view.png`
-- `03-rear-view.png`
-- `04-left-view.png`
-- `05-right-view.png`
-- `06-aerial-45deg.png`
-- `07-interior-01.png`
-- `08-detail-01.png`
-
-Rules:
-- Images must follow the current master-plant dimensions.
-- Use the visualization-image skill before generating engineering images.
-- An image does not change the approved engineering baseline.
-- If an image shows a new design, mark it as a concept until the math and review skills approve it.
+Suggested:
+- 00-master-room.png
+- 01-top-orthographic.png
+- 02-south-intake-door.png
+- 03-north-exhaust.png
+- 04-west-gas-side.png
+- 05-east-electrical-side.png
+- 06-sw-cutaway.png
+- 07-ne-cutaway.png
+- 08-generator-detail.png
+- 09-gas-train.png
+- 10-ats-elp.png
+- 11-battery-controller.png
+- 12-ventilation-airflow.png
+- 13-engine-exhaust.png
+- 14-single-line.png
+- 15-load-schedule.png
+- 16-gas-cycle-automation.png
+- 17-grid-failure-mode.png

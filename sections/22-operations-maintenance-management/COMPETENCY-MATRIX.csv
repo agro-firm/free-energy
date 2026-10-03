@@ -1,0 +1,17 @@
+competency,manager,livestock_A,livestock_B,utility,general,contract_specialist
+Milking_hygiene,A,A,A,B,B,
+Animal_health_observation,A,A,A,B,B,VET
+Medicine_withdrawal,A,A,A,B,B,VET
+Feed_weighing,A,A,A,B,A,NUTRITION
+Waste_basic_monitoring,A,B,B,A,B,
+Digester_basic_monitoring,A,B,B,A,C,BIOGAS
+Gas_alarm_response,A,B,B,A,B,GAS
+Generator_operation,A,C,C,A,C,GEN
+Electrical_isolation,B,C,C,B,C,ELECTRICIAN
+Solar_monitoring,A,C,C,A,C,SOLAR
+Water_utility,A,B,B,A,B,
+Fertilizer_operation,A,B,B,A,A,
+LOTO,A,B,B,A,B,SPECIALIST
+Confined_space_permit,A,C,C,B,C,HSE
+Fire_emergency,A,A,A,A,A,HSE
+Legend,A=authorized,B=trained_assist,C=awareness_only,,

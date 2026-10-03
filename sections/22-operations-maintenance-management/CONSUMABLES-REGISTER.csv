@@ -1,0 +1,16 @@
+item,unit,planning_monthly_quantity,control,owner
+Concentrate,kg,1800,FIFO/reorder,manager
+Dry roughage,kg,2400,dry stock,manager
+Fresh forage,kg,9000,daily/frequent,manager
+Milk CIP chemical,kg_or_L,INPUT,approved concentration,livestock
+Disinfectant,L,INPUT,biosecurity plan,manager
+Veterinary medicines,BDT_or_units,INPUT,FEFO/vet only,manager
+Generator oil/service materials,units,INPUT,runtime based,utility
+H2S media,kg,CONDITION_BASED,breakthrough,utility
+Gas filter elements,units,CONDITION_BASED,DP/PM,utility
+Fertilizer bags,25kg_bags,~46/month_base,finished product only,general
+Bag sewing thread,rolls,INPUT,stock control,general
+Water-treatment chemicals,kg_or_L,INPUT,lab/treatment basis,utility
+Pest-control consumables,units,INPUT,mapped program,manager
+PPE,units,INPUT,min/max,HSE/manager
+Cleaning tools,units,INPUT,clean/dirty segregation,general

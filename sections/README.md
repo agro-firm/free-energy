@@ -3,14 +3,15 @@
 ## Physical
 01–15 complete.
 
-## Integration / IFC / delivery
-16 Master Integration  
+## Lifecycle control
+16 Integration  
 17 DCF-1 Coordinates  
-18 Survey/Z/Drainage/IFC  
+18 Survey/IFC  
 19 Fire/Hazardous/Emergency  
-20 BOQ/Procurement/Cost Control  
-21 Construction Execution/Schedule/QA-QC
+20 Procurement/BOQ  
+21 Construction Execution/QA  
+22 Operations/PM/Staffing/Farm Management
 
-## Current state
-Engineering and construction-control framework is complete.
-Field survey, approvals, vendor awards and NTP remain prerequisites for physical construction.
+## Operations authority
+Section 22 integrates daily operations.
+Equipment-specific O&M remains in Sections 01–15 and vendor manuals.

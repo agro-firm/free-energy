@@ -8,8 +8,9 @@
 | 18 | Survey/Z/drainage/IFC | ✅ framework; field data pending |
 | 19 | Fire/hazardous/emergency | ✅ framework; approvals pending |
 | 20 | BOQ/procurement/cost control | ✅ framework; quotes pending |
-| 21 | Construction execution/schedule/QA-QC | ✅ framework complete; construction not started |
+| 21 | Construction execution/QA-QC | ✅ framework; construction not started |
+| 22 | Operations SOP/PM/staffing/management | ✅ framework complete; commissioning data pending |
 
-## Construction baseline
-- indicative post-IFC schedule: 40 weeks.
-- field mobilization: pending IFC/NTP.
+## Operations stage
+The operating system is documented.
+Actual steady-state targets and OPEX must be updated after the first 90 days of measured operation.

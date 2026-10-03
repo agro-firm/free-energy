@@ -1,0 +1,23 @@
+item,section,minimum_planning_stock,criticality,reorder_trigger,notes
+Scraper wear kit,01,1 set,P2,when installed spare used,vendor exact
+Scraper limit switch,01,1,P2,zero spare,
+Trough valve,01,2,P2,one spare remaining,
+Fan contactor/overload,01,1 set,P2,zero spare,
+Milk chiller gasket set,03,1 set,P1,used/aged,
+Temperature probe,03,1,P1,zero spare,compatible model
+Vaccine logger probe,04,1,P1,zero spare,
+Slurry pump seal/impeller kit,07,1 set,P1,used,
+Level sensor,07/13,1,P1,zero spare,
+Solenoid coil,07/11,1,P1,zero spare,
+Check valve service kit,07,1,P2,used,
+H2S media,10,1 next charge,P1,lead breakthrough trend,store per SDS
+Gas filter element,10,2,P1,one spare remaining,
+Gas detector sensor/calibration gas,09-11,service stock,P1,vendor schedule,
+Generator service kit,11,1 cycle,P1,before due service,oil filter plug etc
+Starter battery,11,1 or local immediate source,P1,test decline,
+Water pump seal,13,1 set,P2,used,
+Screw press wear parts,12,1 recommended kit,P2,wear trend,
+Bag sewing consumables,12,1 month,P3,2 week stock,
+Solar SPD,15,1 DC/AC set,P2,fault indicator,
+Fuses/breakers selected,all,small approved stock,P2,used,
+PPE consumables,all,30 days,P1,14 days,

@@ -1,35 +1,36 @@
 # IFC Hold Points
 
-## H1 Survey
-Boundary + topo approved.
+## H1 Survey / Z
+Section 18 engineering framework complete.
+Field boundary/topographic RL dataset: **OPEN**.
 
 ## H2 Geotechnical
-Subgrade, foundation bearing, groundwater/uplift.
+OPEN.
 
 ## H3 Drainage
-Outfall and all invert levels approved.
+Hydrology/hydraulic framework complete.
+Final rainfall intensity, outfall and inverts: **OPEN**.
 
 ## H4 Fire
-Emergency access and fire plan approved.
+OPEN.
 
 ## H5 Gas
-Hazardous-area and separation distances approved.
+OPEN.
 
-## H6 Electrical
-Utility phase/capacity, earthing and interconnection approved.
+## H6 Electrical utility
+OPEN.
 
 ## H7 Vendor fit
-Each equipment submittal checked against its DCF rectangle.
+OPEN.
 
 ## H8 Structural
-Cow shed, solar roof, OHT tower, digester, generator pad.
+OPEN.
 
 ## H9 Hygiene
-Milk/waste separation and wastewater path approved.
+OPEN.
 
 ## H10 Master BOQ
-Duplicate scope removed and procurement package issued.
+OPEN.
 
 ## Release
-Only after H1–H10 closure can DCF-1 be promoted to:
-**IFC SITE PLAN V1.0**.
+DCF-1 may not be promoted to IFC SITE PLAN V1.0 until H1–H10 are closed.

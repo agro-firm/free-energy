@@ -1,0 +1,15 @@
+point_id,x_ft,y_ft,field_RL_m,feature,description,date,instrument,status
+P0,0,0,,BOUNDARY,SW/front corner,,,FIELD
+P1,65,0,,BOUNDARY,SE/front corner,,,FIELD
+P2,65,95,,BOUNDARY,NE/rear corner,,,FIELD
+P3,0,95,,BOUNDARY,NW/rear corner,,,FIELD
+D0,51,0,,DATUM,DCF design datum anchor,,,FIELD
+TBM-01,,,,BENCHMARK,Permanent benchmark 1,,,FIELD
+TBM-02,,,,BENCHMARK,Permanent benchmark 2,,,FIELD
+RD-C,,,,ROAD,Road crown at gate,,,FIELD
+RD-N,,,,ROAD,Near road edge,,,FIELD
+RD-F,,,,ROAD,Far road edge,,,FIELD
+OF-01,,,,OUTFALL,Candidate storm outfall invert,,,FIELD
+HW-01,,,,WATER,Normal outfall water level,,,FIELD
+HW-02,,,,WATER,High/design receiving water level,,,FIELD
+FM-01,,,,FLOOD,Flood/high-water evidence,,,FIELD

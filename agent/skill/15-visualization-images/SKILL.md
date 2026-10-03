@@ -1,41 +1,60 @@
 ---
 name: visualization-images
-description: Generate consistent images from any side, angle, top view or interior while locking the approved geometry.
+description: Generate geometry-locked PLANT-V1.0 images using the root master image package plus every visible section's local image/blueprint/architecture files.
 ---
 
 # Visualization / Image Skill
 
-## Mandatory references
-Read master-plant, engineering-math, site-layout and all visible subsystem skills before generating an image.
+## Mandatory read order
+Before a master image:
+1. /IMAGE.md
+2. /MASTER-COORDINATES.md
+3. /MASTER-SITE-PLAN.md
+4. /VIEW-MATRIX.md
+5. /MASTER-SECTION-REFERENCES.md
+6. every visible physical section's:
+   - IMAGE.md
+   - BLUEPRINT.md
+   - ARCHITECTURE.md
 
-## Geometry lock
-Preserve the 65 × 95 ft plot, 26 × 48 ft cow shed, 18 × 28 ft yard, current utility footprints, service lane, milk-room adjacency and rooftop solar.
-Do not move, resize, add or remove buildings just to make an image look better.
+## Geometry law
+DCF-1 X/Y is fixed.
 
-## Supported views
-- True orthographic top plan.
-- Aerial 30°, 45° and 60°.
-- NE, NW, SE and SW aerial corners.
-- North, south, east and west exterior views.
-- Front-road and rear-utility views.
-- Service-lane/truck-loading view.
-- Site section/cutaway.
-- Cow-shed entrance, feed alley, cow row, scraper/gutter and roof/solar views.
-- Milk-room interior and milk-truck pickup.
-- Feed unloading.
-- Waste receiving/mixing close-up.
-- Digester, gas holder and treatment close-ups.
-- Generator-room interior.
-- Fertilizer processing.
-- Water utility.
+Do not:
+- move buildings.
+- resize sections.
+- swap lane side.
+- add physical Sections 16–23.
+- change solar count.
+- invent survey Z.
 
-## Flow colors for engineering images
-- Manure/waste: orange/brown.
-- Biogas: green.
-- Digestate/fertilizer: yellow.
-- Milk: blue.
-- Water: cyan.
-- Electricity: dark blue.
+## Physical sections
+Only 01–15 are physical.
 
-## Image law
-Every generated engineering image must be checked against the master dimensions. If geometry drifts, regenerate the image instead of accepting it as a design change.
+16–23 are overlays/data/control only.
+
+## Master image QA
+Use the checklist in /IMAGE.md.
+
+If a generated image drifts:
+regenerate it.
+
+Do not reinterpret the drift as a design revision.
+
+## View authority
+Use /VIEW-MATRIX.md for master camera/view selection.
+
+Use local section image files for close-ups.
+
+## Flow colors
+- milk blue.
+- feed amber.
+- manure brown.
+- raw gas dark green.
+- treated gas light green.
+- digestate yellow/gold.
+- water cyan.
+- electricity dark blue.
+- traffic grey.
+- safety red.
+- solar gold.

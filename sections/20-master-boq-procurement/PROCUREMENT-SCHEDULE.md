@@ -1,42 +1,29 @@
 # Procurement Schedule
 
-## Phase P0
-Before major RFQ:
-- DCF-1.
-- Section 18 survey inputs.
-- Section 19 critical safety disposition.
-- technical specs.
+## Integration with Section 21
+Procurement must support the Section 21 need-on-site dates.
 
-## Phase P1 — early market engagement
-RFIs for long-lead packages.
+## Phases
+P0 design/hold closure  
+P1 market engagement  
+P2 RFQ  
+P3 clarification  
+P4 evaluation  
+P5 award  
+P6 vendor engineering  
+P7 FAT/shipping  
+P8 receiving/site installation  
+P9 SAT/commissioning  
+P10 warranty closeout
 
-## Phase P2 — RFQ
-Issue package BOQ/spec/drawings.
+## Long-lead priority
+PO/submittal timing must protect:
+- digester specialist items.
+- gas holder/treatment.
+- generator/controls.
+- milk chiller.
+- screw press.
+- solar equipment.
 
-## Phase P3 — clarification
-- technical.
-- commercial.
-- interfaces.
-
-## Phase P4 — evaluation
-- technical pass.
-- normalized cost.
-- approval.
-
-## Phase P5 — PO/contract
-No PO until required submittal gates are satisfied.
-
-## Phase P6 — vendor engineering
-- drawings.
-- calculations.
-- I/O.
-- foundations.
-
-## Phase P7 — FAT / shipping
-Critical imported equipment.
-
-## Phase P8 — receiving/site installation
-
-## Phase P9 — SAT/commissioning
-
-## Phase P10 — warranty closeout
+## Rule
+If forecast delivery threatens Section 21 critical path, report recovery options before expediting cost is committed.

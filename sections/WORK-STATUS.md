@@ -7,17 +7,9 @@
 | 17 | DCF-1 X/Y | ✅ |
 | 18 | Survey/Z/drainage/IFC | ✅ framework; field data pending |
 | 19 | Fire/hazardous/emergency | ✅ framework; approvals pending |
-| 20 | Master BOQ/procurement/cost dedup | ✅ framework complete; quotes pending |
+| 20 | BOQ/procurement/cost control | ✅ framework; quotes pending |
+| 21 | Construction execution/schedule/QA-QC | ✅ framework complete; construction not started |
 
-## Current commercial stage
-Gross control budget:
-```
-Tk26,972,958 ≈ Tk269.73 lakh
-```
-
-Final contract value remains pending:
-- BOQ quantity verification.
-- vendor quotes.
-- approved dedup credits.
-- tax/duty/transport.
-- remaining engineering/authority changes.
+## Construction baseline
+- indicative post-IFC schedule: 40 weeks.
+- field mobilization: pending IFC/NTP.

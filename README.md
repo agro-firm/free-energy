@@ -1,21 +1,17 @@
 # Free Energy — Compact Dairy + Biogas + Solar Farm
 
-PLANT-V1.0 now includes complete technical concept documentation plus procurement/cost-control architecture.
+PLANT-V1.0 now includes a complete construction-execution control package.
 
-## Current gross planning control budget
-```
-Tk26,972,958 ≈ Tk269.73 lakh
-```
-before confirmed deduplication, taxes/duties, land, livestock, working capital and remaining authority/vendor changes.
+## Delivery status
+- physical engineering 01–15: complete.
+- integration/coordinates/IFC/safety/procurement: documented.
+- Section 21 construction schedule/logistics/QA-QC: complete.
+- physical construction: not started.
 
-## Current stages
-- Physical Sections 01–15 complete.
-- Integration 16 complete.
-- DCF-1 X/Y 17 complete.
-- Survey/IFC framework 18 complete.
-- Fire/hazard framework 19 complete.
-- BOQ/procurement framework 20 complete.
+## Planning construction duration
+Indicative:
+- base ~40 weeks after applicable IFC/NTP.
+- subject to survey, approvals, procurement, imports, weather and actual contractor program.
 
-## Commercial rule
-Do not treat section allowances as vendor awards.
-All major equipment requires normalized RFQ, technical compliance and approved submittals.
+## Important
+The 40-week schedule is a planning baseline, not a promise or contract duration.

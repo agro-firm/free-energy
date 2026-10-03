@@ -1,0 +1,28 @@
+id,activity,start_week,finish_week,duration_weeks,predecessor,critical_candidate
+A01,Mobilization and temporary facilities,1,2,2,NTP,NO
+A02,Survey verification and setting out,1,3,3,IFC survey,YES
+A03,Clearing grading temporary drainage,2,5,4,A02,NO
+A04,Underground sleeves and common drainage,3,8,6,A02,YES
+A05,Ground tank sumps digester excavation and bases,3,10,8,A02,YES
+A06,Cow shed foundations and steel,5,14,10,A03,NO
+A07,Small buildings and process structures,6,16,11,A03+A04,NO
+A08,Digester RCC roof cure leak test,6,16,11,A05,YES
+A09,Lane subbase and underground crossings,5,10,6,A04,NO
+A10,Roofs closures finishes,10,18,9,A06+A07,NO
+A11,Service lane RCC and drain,15,19,5,A04+A09,NO
+A12,Manure and waste process equipment,15,22,8,A07,NO
+A13,Milk and feed fitout,17,24,8,A10,NO
+A14,Water pumps tanks distribution,16,22,7,A07+A04,NO
+A15,Fertilizer process equipment,18,25,8,A07,NO
+A16,Gas holder and gas treatment,20,27,8,A08+vendor,YES
+A17,Generator ATS electrical room,20,28,9,A07+vendor,YES
+A18,Main electrical PLC SCADA instrumentation,22,30,9,structures+vendors,YES
+A19,Rooftop solar,26,31,6,roof release,NO
+A20,Dry and precommissioning,28,32,5,equipment installed,YES
+A21,Water and process commissioning,30,33,4,A20,YES
+A22,Digester biological startup,32,37,6,A08+A21,YES
+A23,Gas commissioning and quality,35,38,4,A22+A16,YES
+A24,Generator load and ATS tests,36,38,3,A23+A17+A18,YES
+A25,Solar utility and net meter commissioning,32,38,7,A19+utility,NO
+A26,Integrated plant trial,38,39,2,A21+A23+A24,YES
+A27,Punch asbuilt training handover,39,40,2,A26,YES

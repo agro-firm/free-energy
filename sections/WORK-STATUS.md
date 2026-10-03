@@ -12,7 +12,7 @@
 | 06 | Feed unloading canopy | ✅ Detailed package complete incl. IMAGE.md |
 | 07 | Waste receiving + mixing | ✅ Detailed package complete incl. IMAGE.md |
 | 08 | Biogas digester | ✅ Detailed package complete incl. IMAGE.md |
-| 09 | Gas storage | ⏳ Basic README only |
+| 09 | Gas storage | ✅ Detailed package complete incl. IMAGE.md |
 | 10 | Gas treatment | ⏳ Basic README only |
 | 11 | Generator + electrical | ⏳ Basic README only |
 | 12 | Fertilizer processing | ⏳ Basic README only |

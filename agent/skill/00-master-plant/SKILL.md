@@ -15,8 +15,8 @@ description: Canonical source of truth for the compact integrated dairy-energy p
 - Feed store: 18 × 20 ft.
 - Feed unloading canopy: 10 × 18 ft.
 - Waste receiving/mixing: 10 × 14 ft = 140 ft².
-- Digester compound: **16 × 20 ft; 25 m³ total digester; 20 m³ target working liquid volume**.
-- Raw gas holder: 8 m³ in a 10 × 12 ft zone.
+- Digester compound: 16 × 20 ft; 25 m³ total digester; 20 m³ target working liquid volume.
+- Raw gas storage: **8 m³ nominal low-pressure H₂S-compatible flexible membrane holder in a 10 × 12 ft zone**.
 - Gas treatment: 8 × 10 ft.
 - Generator + electrical: 12 × 14 ft; generator 5 kW rated.
 - Fertilizer processing: 16 × 22 ft.
@@ -46,6 +46,10 @@ Truck → unloading canopy → feed store → cow shed.
 - Selected digester working volume: 20 m³ → ~37-day HRT.
 - Digester total internal volume: 25 m³.
 - Biogas planning range: 8.10–9.18 m³/day.
+- Gas holder nominal volume: 8 m³.
+- Gas-holder downstream demand enable concept: ~75% = 6.0 m³.
+- Gas-holder low cutout concept: ~20% = 1.6 m³.
+- Usable control swing: ~4.4 m³.
 - Generator: 5 kW rated; normal planning output about 4 kW.
 - Expected generator runtime at baseline gas: about 3.6–4.1 h/day.
 

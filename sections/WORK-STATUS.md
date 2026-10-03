@@ -14,7 +14,7 @@
 | 08 | Biogas digester | ✅ Detailed package complete incl. IMAGE.md |
 | 09 | Gas storage | ✅ Detailed package complete incl. IMAGE.md |
 | 10 | Gas treatment | ✅ Detailed package complete incl. IMAGE.md |
-| 11 | Generator + electrical | ⏳ Basic README only |
+| 11 | Generator + electrical | ✅ Detailed package complete incl. IMAGE.md |
 | 12 | Fertilizer processing | ⏳ Basic README only |
 | 13 | Water utility | ⏳ Basic README only |
 | 14 | Truck/service lane | ⏳ Basic README only |
@@ -23,6 +23,4 @@
 ## Definition of detailed complete
 A section is complete only when it has architecture, blueprint, design, calculations, utilities, process, equipment, diagrams, construction, operations/maintenance, benefits, cost, IMAGE.md, AI image guide, view matrix and updated section README.
 
-Process-heavy sections may also include P&ID.md, AUTOMATION.md, SAFETY.md, BIOLOGY-STARTUP.md, GAS-QUALITY.md and MEDIA-MANAGEMENT.md.
-
-See [DOCUMENTATION-STANDARD.md](DOCUMENTATION-STANDARD.md).
+Engineering-heavy sections may also include load schedules, single-line diagrams, power architecture, gas interface, ventilation/exhaust, P&ID, automation and safety files.

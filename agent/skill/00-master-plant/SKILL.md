@@ -17,50 +17,35 @@ description: Canonical source of truth for the compact integrated dairy-energy p
 - Waste receiving/mixing: 10 × 14 ft = 140 ft².
 - Digester compound: 16 × 20 ft; 25 m³ total digester; 20 m³ target working liquid volume.
 - Raw gas storage: 8 m³ nominal low-pressure flexible membrane holder in a 10 × 12 ft zone.
-- Gas treatment: **8 × 10 ft treatment skid zone; bulk condensate knockout → twin 25 kg lead/lag H₂S media vessels → fine moisture separator → particulate polish → gas meter → gas-compatible booster/regulator → generator**.
-- Generator + electrical: 12 × 14 ft; generator 5 kW rated.
+- Gas treatment: 8 × 10 ft treatment skid.
+- Generator + electrical: **12 × 14 ft room; 5 kW rated, 230 V, 50 Hz, single-phase biogas generator concept feeding a dedicated Essential Load Board through interlocked ATS/changeover**.
 - Fertilizer processing: 16 × 22 ft.
 - Water utility: 8 × 12 ft.
 - Service lane: 14 ft wide.
 - Rooftop solar: 15 kWp on cow-shed roof.
 
-## Canonical manure and gas flow
-Cow shed → automatic scraper/gutter → waste receiving → mixing/dosing → digester → raw gas storage → gas treatment → generator.
-
-## Digestate flow
-Digester → separator → solid fertilizer + liquid fertilizer.
-
-## Milk flow
-Cow → milking → milk room/chiller → clean dispatch door → service lane → milk truck.
-
-## Feed flow
-Truck → unloading canopy → feed store → cow shed.
+## Canonical energy architecture
+Solar/grid normally serve the farm main bus. The 5 kW biogas generator serves an Essential Load Board through an interlocked transfer system. The generator does not backfeed or parallel the utility, and it does not parallel rooftop solar unless a future Section 15 inverter/genset design is explicitly approved by both vendors and the electrical engineer.
 
 ## Baseline calculations
-- Fresh dung: 20 × 15 = 300 kg/day.
-- Collection at 90%: 300 × 0.90 = 270 kg/day.
-- Dilution water planning: about 270 L/day.
-- Daily slurry planning flow: about 0.54 m³/day.
-- Four digester feeds/day: about 0.135 m³/feed.
-- Minimum 30-day digester working volume: 16.2 m³.
-- Selected digester working volume: 20 m³ → ~37-day HRT.
-- Digester total internal volume: 25 m³.
-- Biogas planning range: 8.10–9.18 m³/day.
-- Gas holder nominal volume: 8 m³.
-- Gas-holder downstream demand enable concept: ~75% = 6.0 m³.
-- Gas-holder low cutout concept: ~20% = 1.6 m³.
-- Usable control swing: ~4.4 m³.
-- Gas-treatment design flow: 3 m³/h peak concept.
-- H₂S design inlet for sizing: 2,000 ppm ASSUMPTION; sensitivity 1,000–3,000 ppm.
-- Treated-gas planning target: ≤100 ppm H₂S maximum; preferred ≤50 ppm if generator vendor requires.
-- Generator: 5 kW rated; normal planning output about 4 kW.
-- Expected generator runtime at baseline gas: about 3.6–4.1 h/day.
+- Biogas: 8.10–9.18 m³/day.
+- Planning methane: ~60%.
+- Electrical yield: ~1.79 kWh/m³ at 30% engine-generator efficiency.
+- Gross generator energy: ~14.5–16.4 kWh/day.
+- Generator rated output: 5 kW.
+- Normal operating target: ~4 kW.
+- Gas at 4 kW: ~2.23 m³/h.
+- Runtime: ~3.6–4.1 h/day.
+- Rated current at 230 V: ~21.7 A.
+- Normal 4 kW current: ~17.4 A.
+- Concept generator breaker: 32 A 2-pole.
+- Concept generator feeder: 2C × 6 mm² copper + protective conductor, final sizing by engineer.
+- Room ventilation planning target: ~1,500–2,000 m³/h, final vendor airflow governs.
 
 ## Non-negotiable rules
-1. Clean milk traffic does not cross the manure route.
-2. Feed delivery does not enter the waste zone.
-3. Gas process order stays digester → storage → treatment → generator.
-4. Untreated raw biogas never bypasses Section 10 to the generator.
-5. Truck/service access remains usable.
-6. No image may change dimensions for appearance.
-7. Any dimension or capacity change must be recalculated before approval.
+1. Untreated raw gas never bypasses Section 10 to the generator.
+2. Generator never backfeeds the grid.
+3. Generator/solar paralleling is prohibited unless explicitly engineered and vendor-approved.
+4. Noncritical loads are shed before generator overload.
+5. Exhaust gas is discharged outdoors, never into occupied/process spaces.
+6. No image may change canonical dimensions or topology.

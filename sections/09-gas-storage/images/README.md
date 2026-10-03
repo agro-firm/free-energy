@@ -1,20 +1,24 @@
 # 09 — Gas Storage — Images
 
-Store section-specific visual references and generated views here.
+Read ../IMAGE.md, ../P&ID.md, ../AUTOMATION.md and ../SAFETY.md first.
 
-Suggested names:
-- `00-overview.png`
-- `01-top-view.png`
-- `02-front-view.png`
-- `03-rear-view.png`
-- `04-left-view.png`
-- `05-right-view.png`
-- `06-aerial-45deg.png`
-- `07-interior-01.png`
-- `08-detail-01.png`
-
-Rules:
-- Images must follow the current master-plant dimensions.
-- Use the visualization-image skill before generating engineering images.
-- An image does not change the approved engineering baseline.
-- If an image shows a new design, mark it as a concept until the math and review skills approve it.
+Suggested:
+- 00-master-overview.png
+- 01-top-orthographic.png
+- 02-west-inlet.png
+- 03-east-outlet.png
+- 04-north-relief-side.png
+- 05-south-service-side.png
+- 06-sw-aerial.png
+- 07-ne-aerial.png
+- 08-frame-cutaway.png
+- 09-holder-20-percent.png
+- 10-holder-75-percent.png
+- 11-holder-95-percent.png
+- 12-manifold-detail.png
+- 13-condensate-detail.png
+- 14-pv-relief.png
+- 15-gas-detector.png
+- 16-earthing-lightning.png
+- 17-pid-overlay.png
+- 18-automation-thresholds.png

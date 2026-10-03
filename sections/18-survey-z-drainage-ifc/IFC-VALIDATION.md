@@ -2,39 +2,35 @@
 
 ## Gate 1 — geometry
 DCF-1 X/Y verified against boundary survey.
+Status: FIELD PENDING.
 
 ## Gate 2 — levels
-All section corners have field RL and final design FFL/FGL.
+Status: FIELD PENDING.
 
 ## Gate 3 — flood
-FRL basis documented.
+Status: FIELD/HYDROLOGY PENDING.
 
 ## Gate 4 — drainage
-- hydrology approved.
-- HGL checked.
-- outfall accepted.
-- inverts scheduled.
+Status: FINAL OUTFALL/IDF PENDING.
 
 ## Gate 5 — earthwork
-cut/fill and subgrade design issued.
+Status: SURVEY PENDING.
 
 ## Gate 6 — road
-truck gate/approach levels and swept path accepted.
+Status: ROAD SURVEY + SWEPT PATH PENDING.
 
 ## Gate 7 — utilities
-crossing register frozen.
+Status: FINAL CROSSINGS PENDING.
 
 ## Gate 8 — safety
-gas/fire/electrical separations accepted.
+Section 19 documentation framework: COMPLETE.
+Authority/fire/hazardous-area approvals: **OPEN**.
 
 ## Gate 9 — vendor
-equipment dimensions/levels fit.
+OPEN.
 
 ## Gate 10 — QA
-benchmark and setting-out plan approved.
+OPEN.
 
-## IFC release statement
-Only after all gates pass:
-```
-DCF-1 → IFC SITE PLAN V1.0
-```
+## IFC
+Not released.

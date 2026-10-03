@@ -26,6 +26,10 @@
 - 18-construction-review
 - 19-master-integration
 - 20-site-coordinate-freeze
-- **21-survey-ifc-validation**
+- 21-survey-ifc-validation
+- **22-fire-hazardous-emergency-validation**
 
-Rule: X/Y follows Section 17 DCF-1; Z/drainage/IFC follows Section 18.
+Rules:
+- X/Y → Section 17.
+- Z/drainage → Section 18.
+- fire/hazardous/emergency → Section 19.
